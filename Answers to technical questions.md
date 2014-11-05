@@ -1,7 +1,7 @@
 Technical question answers
 ==========================
 
-1) How long did you spend on the coding test? 325 mins - here is the breakdown.
+1) _How long did you spend on the coding test?_ 325 mins - here is the breakdown.
 
 **Project set-up**
 
@@ -17,7 +17,7 @@ the provided URL - 15 mins
 **(Side tracked)**
 
 * Investigating whether I can use the GPS position to deduce the outcode - 30 mins
-(found this - http://www.freemaptools.com/download-uk-postcode-lat-lng.htm)
+(found [this](http://www.freemaptools.com/download-uk-postcode-lat-lng.htm))
 
 **Android**
 
@@ -33,12 +33,12 @@ position to deduce their outcode. The first-time-use would then present a list o
 relevant to the user. Furthermore, I would have added more testing to the Android layer in readiness
 for a refactor to support more Android OS versions and form factors.
 
-2) What was the most useful feature that was added to the latest version of your chosen language?
+2) _What was the most useful feature that was added to the latest version of your chosen language?_
 I am looking forward to using Java 8 and the succinct
 [Lambda expressions](http://www.oracle.com/webfolder/technetwork/tutorials/obe/java/Lambda-QuickStart/index.html).
 I haven't used Lambda's in production code owing primarily to the slow uptake of Java upgrades.
 
-3) How would you track down a performance issue in an application? I commonly encounter ````OutOfMemory````
+3) _How would you track down a performance issue in an application?_ I commonly encounter ````OutOfMemory````
 exceptions when working with image intensive applications on Android with the preceeding 'jank' a performance issue.
 Some of the investigatory work I completed (in conjunction with SoundCloud) into performance problems
 with [Picasso](http://square.github.io/picasso/) are outlined in this
@@ -50,7 +50,7 @@ and overzealous loading (only to throw away the majority of the results). Correc
 issues are best tackled as if they were enhancements and require thorough functional and technical
 approvals.
 
-4) How would you improve the JUST EAT APIs that you just used?
+4) _How would you improve the JUST EAT APIs that you just used?_
 I do not understand how a restaurant can be identified as ````IsOpen````, ````false```` only for the
 ````IsOpenNowForDelivery```` and ````IsOpenNowForCollection```` flags to report ````true````!
 Either the naming here is incorrect or we have a discrepancy. Furthermore, it would be good to provide
