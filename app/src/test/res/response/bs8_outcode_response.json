@@ -1,0 +1,4031 @@
+{
+    "ShortResultText": "BS8",
+    "Restaurants": [
+        {
+            "Id": 25136,
+            "Name": "The Red Pizza Company",
+            "Address": "181a Hotwell Road",
+            "Postcode": "BS8 4SA",
+            "City": "Bristol",
+            "CuisineTypes": [
+                {
+                    "Id": 82,
+                    "Name": "Pizza",
+                    "SeoName": null
+                }
+            ],
+            "Url": "http://theredpizzacompany-bs8.just-eat.co.uk",
+            "IsOpenNow": true,
+            "IsSponsored": true,
+            "IsNew": false,
+            "IsTemporarilyOffline": false,
+            "ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+            "UniqueName": "theredpizzacompany-bs8",
+            "IsCloseBy": true,
+            "IsHalal": false,
+            "DefaultDisplayRank": 1,
+            "IsOpenNowForDelivery": true,
+            "IsOpenNowForCollection": true,
+            "RatingStars": 4.94,
+            "Logo": [
+                {
+                    "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/25136.gif"
+                }
+            ],
+            "Deals": [],
+            "NumberOfRatings": 295
+        },
+        {
+            "Id": 39600,
+            "Name": "Joy Raj",
+            "Address": "31 Regent Street",
+            "Postcode": "BS8 4HR",
+            "City": "Bristol",
+            "CuisineTypes": [
+                {
+                    "Id": 31,
+                    "Name": "Indian",
+                    "SeoName": null
+                },
+                {
+                    "Id": 50,
+                    "Name": "Bangladeshi",
+                    "SeoName": null
+                }
+            ],
+            "Url": "http://joyraj-bs8.just-eat.co.uk",
+            "IsOpenNow": true,
+            "IsSponsored": true,
+            "IsNew": false,
+            "IsTemporarilyOffline": false,
+            "ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+            "UniqueName": "joyraj-bs8",
+            "IsCloseBy": true,
+            "IsHalal": true,
+            "DefaultDisplayRank": 2,
+            "IsOpenNowForDelivery": true,
+            "IsOpenNowForCollection": true,
+            "RatingStars": 4.64,
+            "Logo": [
+                {
+                    "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/39600.gif"
+                }
+            ],
+            "Deals": [],
+            "NumberOfRatings": 13
+        },
+        {
+            "Id": 8372,
+            "Name": "Dragon Fountain",
+            "Address": "4 Cotham Hill",
+            "Postcode": "BS6 6LF",
+            "City": "Bristol",
+            "CuisineTypes": [
+                {
+                    "Id": 33,
+                    "Name": "Chinese",
+                    "SeoName": null
+                }
+            ],
+            "Url": "http://dragonfountain-bs6.just-eat.co.uk",
+            "IsOpenNow": true,
+            "IsSponsored": true,
+            "IsNew": false,
+            "IsTemporarilyOffline": false,
+            "ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+            "UniqueName": "dragonfountain-bs6",
+            "IsCloseBy": false,
+            "IsHalal": false,
+            "DefaultDisplayRank": 4,
+            "IsOpenNowForDelivery": true,
+            "IsOpenNowForCollection": true,
+            "RatingStars": 4.21,
+            "Logo": [
+                {
+                    "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/8372.gif"
+                }
+            ],
+            "Deals": [],
+            "NumberOfRatings": 425
+        },
+        {
+            "Id": 6528,
+            "Name": "Pizza Go Go BS2",
+            "Address": "11-16 Dighton St",
+            "Postcode": "BS2 8AJ",
+            "City": "Bristol",
+            "CuisineTypes": [
+                {
+                    "Id": 27,
+                    "Name": "Italian",
+                    "SeoName": null
+                },
+                {
+                    "Id": 82,
+                    "Name": "Pizza",
+                    "SeoName": null
+                }
+            ],
+            "Url": "http://pizzagogo-bs2.just-eat.co.uk",
+            "IsOpenNow": true,
+            "IsSponsored": true,
+            "IsNew": false,
+            "IsTemporarilyOffline": false,
+            "ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+            "UniqueName": "pizzagogo-bs2",
+            "IsCloseBy": false,
+            "IsHalal": false,
+            "DefaultDisplayRank": 3,
+            "IsOpenNowForDelivery": true,
+            "IsOpenNowForCollection": true,
+            "RatingStars": 5.16,
+            "Logo": [
+                {
+                    "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/6528.gif"
+                }
+            ],
+            "Deals": [],
+            "NumberOfRatings": 967
+        },
+        {
+            "Id": 41125,
+            "Name": "Checkpoint Pizza & Kebabs",
+            "Address": "13 Whitehouse Street",
+            "Postcode": "BS3 4AR",
+            "City": "Bristol",
+            "CuisineTypes": [
+                {
+                    "Id": 81,
+                    "Name": "Kebabs",
+                    "SeoName": null
+                },
+                {
+                    "Id": 82,
+                    "Name": "Pizza",
+                    "SeoName": null
+                }
+            ],
+            "Url": "http://checkpoint-bs3.just-eat.co.uk",
+            "IsOpenNow": true,
+            "IsSponsored": false,
+            "IsNew": false,
+            "IsTemporarilyOffline": false,
+            "ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+            "UniqueName": "checkpoint-bs3",
+            "IsCloseBy": false,
+            "IsHalal": true,
+            "DefaultDisplayRank": 22,
+            "IsOpenNowForDelivery": true,
+            "IsOpenNowForCollection": true,
+            "RatingStars": 5.65,
+            "Logo": [
+                {
+                    "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/41125.gif"
+                }
+            ],
+            "Deals": [
+                {
+                    "Description": "20% off when you spend £30",
+                    "DiscountPercent": "20",
+                    "QualifyingPrice": "30.00"
+                }
+            ],
+            "NumberOfRatings": 16
+        },
+        {
+            "Id": 38775,
+            "Name": "Arches Fish Bar",
+            "Address": "226 Cheltenham Road St Andrews",
+            "Postcode": "BS6 5QU",
+            "City": "Bristol",
+            "CuisineTypes": [
+                {
+                    "Id": 80,
+                    "Name": "Fish & Chips",
+                    "SeoName": null
+                }
+            ],
+            "Url": "http://archesfishbarb26.just-eat.co.uk",
+            "IsOpenNow": true,
+            "IsSponsored": false,
+            "IsNew": false,
+            "IsTemporarilyOffline": false,
+            "ReasonWhyTemporarilyOffline": "Failed JCT Connection",
+            "UniqueName": "archesfishbarb26",
+            "IsCloseBy": false,
+            "IsHalal": false,
+            "DefaultDisplayRank": 40,
+            "IsOpenNowForDelivery": true,
+            "IsOpenNowForCollection": true,
+            "RatingStars": 5.28,
+            "Logo": [
+                {
+                    "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/38775.gif"
+                }
+            ],
+            "Deals": [],
+            "NumberOfRatings": 94
+        },
+        {
+            "Id": 21716,
+            "Name": "Garam Massala",
+            "Address": "37 Cotham Hill",
+            "Postcode": "BS6 6JY",
+            "City": "Bristol",
+            "CuisineTypes": [
+                {
+                    "Id": 31,
+                    "Name": "Indian",
+                    "SeoName": null
+                }
+            ],
+            "Url": "http://garammassala-bs6.just-eat.co.uk",
+            "IsOpenNow": true,
+            "IsSponsored": false,
+            "IsNew": false,
+            "IsTemporarilyOffline": false,
+            "ReasonWhyTemporarilyOffline": "Temporarily offline",
+            "UniqueName": "garammassala-bs6",
+            "IsCloseBy": false,
+            "IsHalal": true,
+            "DefaultDisplayRank": 32,
+            "IsOpenNowForDelivery": true,
+            "IsOpenNowForCollection": true,
+            "RatingStars": 5.36,
+            "Logo": [
+                {
+                    "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/21716.gif"
+                }
+            ],
+            "Deals": [
+                {
+                    "Description": "20% off when you spend £25",
+                    "DiscountPercent": "20",
+                    "QualifyingPrice": "25.00"
+                }
+            ],
+            "NumberOfRatings": 353
+        },
+        {
+            "Id": 41857,
+            "Name": "Papa Johns",
+            "Address": "Cheltenham Road",
+            "Postcode": "BS6 5RE",
+            "City": "Bristol",
+            "CuisineTypes": [
+                {
+                    "Id": 82,
+                    "Name": "Pizza",
+                    "SeoName": null
+                }
+            ],
+            "Url": "http://papajohns-bs6.just-eat.co.uk",
+            "IsOpenNow": true,
+            "IsSponsored": false,
+            "IsNew": false,
+            "IsTemporarilyOffline": false,
+            "ReasonWhyTemporarilyOffline": "Closed today",
+            "UniqueName": "papajohns-bs6",
+            "IsCloseBy": false,
+            "IsHalal": false,
+            "DefaultDisplayRank": 92,
+            "IsOpenNowForDelivery": true,
+            "IsOpenNowForCollection": true,
+            "RatingStars": 3.29,
+            "Logo": [
+                {
+                    "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/41857.gif"
+                }
+            ],
+            "Deals": [
+                {
+                    "Description": "20% off when you spend £25",
+                    "DiscountPercent": "20",
+                    "QualifyingPrice": "25.00"
+                }
+            ],
+            "NumberOfRatings": 8
+        },
+        {
+            "Id": 40074,
+            "Name": "Fusions @ Kuumba",
+            "Address": "22-25 Hepburn Road",
+            "Postcode": "BS2 8UD",
+            "City": "Bristol",
+            "CuisineTypes": [
+                {
+                    "Id": 76,
+                    "Name": "Caribbean",
+                    "SeoName": null
+                },
+                {
+                    "Id": 97,
+                    "Name": "African",
+                    "SeoName": null
+                }
+            ],
+            "Url": "http://fusionsatkuumba-bs2.just-eat.co.uk",
+            "IsOpenNow": true,
+            "IsSponsored": false,
+            "IsNew": false,
+            "IsTemporarilyOffline": false,
+            "ReasonWhyTemporarilyOffline": "",
+            "UniqueName": "fusionsatkuumba-bs2",
+            "IsCloseBy": false,
+            "IsHalal": true,
+            "DefaultDisplayRank": 79,
+            "IsOpenNowForDelivery": true,
+            "IsOpenNowForCollection": true,
+            "RatingStars": 4.38,
+            "Logo": [
+                {
+                    "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/40074.gif"
+                }
+            ],
+            "Deals": [],
+            "NumberOfRatings": 8
+        },
+        {
+            "Id": 26029,
+            "Name": "Bento House",
+            "Address": "200 Cheltemham Road Cotham",
+            "Postcode": "BS6 5QZ",
+            "City": "Bristol",
+            "CuisineTypes": [
+                {
+                    "Id": 54,
+                    "Name": "Korean ",
+                    "SeoName": null
+                },
+                {
+                    "Id": 35,
+                    "Name": "Japanese",
+                    "SeoName": null
+                }
+            ],
+            "Url": "http://bentohouse-bs6.just-eat.co.uk",
+            "IsOpenNow": true,
+            "IsSponsored": false,
+            "IsNew": false,
+            "IsTemporarilyOffline": false,
+            "ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+            "UniqueName": "bentohouse-bs6",
+            "IsCloseBy": false,
+            "IsHalal": false,
+            "DefaultDisplayRank": 64,
+            "IsOpenNowForDelivery": true,
+            "IsOpenNowForCollection": true,
+            "RatingStars": 4.73,
+            "Logo": [
+                {
+                    "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/26029.gif"
+                }
+            ],
+            "Deals": [],
+            "NumberOfRatings": 216
+        },
+        {
+            "Id": 22469,
+            "Name": "Samys Grill",
+            "Address": "84 West Street",
+            "Postcode": "BS3 3LL",
+            "City": "Bristol",
+            "CuisineTypes": [
+                {
+                    "Id": 25,
+                    "Name": "Turkish",
+                    "SeoName": null
+                },
+                {
+                    "Id": 81,
+                    "Name": "Kebabs",
+                    "SeoName": null
+                }
+            ],
+            "Url": "http://SamysGrill-BS3.just-eat.co.uk",
+            "IsOpenNow": true,
+            "IsSponsored": false,
+            "IsNew": false,
+            "IsTemporarilyOffline": false,
+            "ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+            "UniqueName": "SamysGrill-BS3",
+            "IsCloseBy": false,
+            "IsHalal": false,
+            "DefaultDisplayRank": 76,
+            "IsOpenNowForDelivery": true,
+            "IsOpenNowForCollection": true,
+            "RatingStars": 4.49,
+            "Logo": [
+                {
+                    "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/22469.gif"
+                }
+            ],
+            "Deals": [],
+            "NumberOfRatings": 89
+        },
+        {
+            "Id": 15576,
+            "Name": "Dragon Express Chinese - Vegetarian Specialists",
+            "Address": "58/60 Avonleigh Road",
+            "Postcode": "BS3 3JA",
+            "City": "Bristol",
+            "CuisineTypes": [
+                {
+                    "Id": 33,
+                    "Name": "Chinese",
+                    "SeoName": null
+                },
+                {
+                    "Id": 30,
+                    "Name": "Thai",
+                    "SeoName": null
+                }
+            ],
+            "Url": "http://dragonexpresschinesetakeaway.just-eat.co.uk",
+            "IsOpenNow": true,
+            "IsSponsored": false,
+            "IsNew": false,
+            "IsTemporarilyOffline": false,
+            "ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+            "UniqueName": "dragonexpresschinesetakeaway",
+            "IsCloseBy": false,
+            "IsHalal": false,
+            "DefaultDisplayRank": 75,
+            "IsOpenNowForDelivery": true,
+            "IsOpenNowForCollection": true,
+            "RatingStars": 4.5,
+            "Logo": [
+                {
+                    "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/15576.gif"
+                }
+            ],
+            "Deals": [],
+            "NumberOfRatings": 164
+        },
+        {
+            "Id": 22482,
+            "Name": "Superios",
+            "Address": "73 St Marks Road",
+            "Postcode": "BS5 6HX",
+            "City": "Bristol",
+            "CuisineTypes": [
+                {
+                    "Id": 79,
+                    "Name": "Chicken",
+                    "SeoName": null
+                }
+            ],
+            "Url": "http://Supirios-BS5.just-eat.co.uk",
+            "IsOpenNow": true,
+            "IsSponsored": false,
+            "IsNew": false,
+            "IsTemporarilyOffline": false,
+            "ReasonWhyTemporarilyOffline": "",
+            "UniqueName": "Supirios-BS5",
+            "IsCloseBy": false,
+            "IsHalal": true,
+            "DefaultDisplayRank": 69,
+            "IsOpenNowForDelivery": true,
+            "IsOpenNowForCollection": true,
+            "RatingStars": 4.66,
+            "Logo": [
+                {
+                    "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/22482.gif"
+                }
+            ],
+            "Deals": [],
+            "NumberOfRatings": 67
+        },
+        {
+            "Id": 6968,
+            "Name": "Asian Spicy",
+            "Address": "202 Cheltenham Road",
+            "Postcode": "BS6 5QZ",
+            "City": "Bristol",
+            "CuisineTypes": [
+                {
+                    "Id": 31,
+                    "Name": "Indian",
+                    "SeoName": null
+                },
+                {
+                    "Id": 50,
+                    "Name": "Bangladeshi",
+                    "SeoName": null
+                }
+            ],
+            "Url": "http://asian-spicy.just-eat.co.uk",
+            "IsOpenNow": true,
+            "IsSponsored": false,
+            "IsNew": false,
+            "IsTemporarilyOffline": false,
+            "ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+            "UniqueName": "asian-spicy",
+            "IsCloseBy": false,
+            "IsHalal": false,
+            "DefaultDisplayRank": 87,
+            "IsOpenNowForDelivery": true,
+            "IsOpenNowForCollection": true,
+            "RatingStars": 4.12,
+            "Logo": [
+                {
+                    "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/6968.gif"
+                }
+            ],
+            "Deals": [
+                {
+                    "Description": "20% off when you spend £25",
+                    "DiscountPercent": "20",
+                    "QualifyingPrice": "25.00"
+                }
+            ],
+            "NumberOfRatings": 108
+        },
+        {
+            "Id": 18121,
+            "Name": "Jasmine",
+            "Address": "235 Cheltenham Road",
+            "Postcode": "BS6 5QP",
+            "City": "Bristol",
+            "CuisineTypes": [
+                {
+                    "Id": 33,
+                    "Name": "Chinese",
+                    "SeoName": null
+                }
+            ],
+            "Url": "http://jasmine-bs6.just-eat.co.uk",
+            "IsOpenNow": true,
+            "IsSponsored": false,
+            "IsNew": false,
+            "IsTemporarilyOffline": false,
+            "ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+            "UniqueName": "jasmine-bs6",
+            "IsCloseBy": false,
+            "IsHalal": false,
+            "DefaultDisplayRank": 91,
+            "IsOpenNowForDelivery": true,
+            "IsOpenNowForCollection": true,
+            "RatingStars": 3.48,
+            "Logo": [
+                {
+                    "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/18121.gif"
+                }
+            ],
+            "Deals": [],
+            "NumberOfRatings": 109
+        },
+        {
+            "Id": 25013,
+            "Name": "Taj Mahal Ltd",
+            "Address": "290 Charlton Road",
+            "Postcode": "BS10 6JU",
+            "City": "Bristol",
+            "CuisineTypes": [
+                {
+                    "Id": 31,
+                    "Name": "Indian",
+                    "SeoName": null
+                }
+            ],
+            "Url": "http://tajmahalltd.just-eat.co.uk",
+            "IsOpenNow": true,
+            "IsSponsored": false,
+            "IsNew": false,
+            "IsTemporarilyOffline": false,
+            "ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+            "UniqueName": "tajmahalltd",
+            "IsCloseBy": false,
+            "IsHalal": false,
+            "DefaultDisplayRank": 71,
+            "IsOpenNowForDelivery": true,
+            "IsOpenNowForCollection": true,
+            "RatingStars": 4.62,
+            "Logo": [
+                {
+                    "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/25013.gif"
+                }
+            ],
+            "Deals": [],
+            "NumberOfRatings": 53
+        },
+        {
+            "Id": 22473,
+            "Name": "Fish 'n' Chicks",
+            "Address": "138 Stapleton Road",
+            "Postcode": "BS5 0PU",
+            "City": "Bristol",
+            "CuisineTypes": [
+                {
+                    "Id": 2,
+                    "Name": "English",
+                    "SeoName": null
+                }
+            ],
+            "Url": "http://FishnChicks-BS5.just-eat.co.uk",
+            "IsOpenNow": true,
+            "IsSponsored": false,
+            "IsNew": false,
+            "IsTemporarilyOffline": false,
+            "ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+            "UniqueName": "FishnChicks-BS5",
+            "IsCloseBy": false,
+            "IsHalal": true,
+            "DefaultDisplayRank": 90,
+            "IsOpenNowForDelivery": true,
+            "IsOpenNowForCollection": true,
+            "RatingStars": 3.71,
+            "Logo": [
+                {
+                    "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/22473.gif"
+                }
+            ],
+            "Deals": [],
+            "NumberOfRatings": 51
+        },
+        {
+            "Id": 32351,
+            "Name": "Zall Tandoori",
+            "Address": "120 West Street",
+            "Postcode": "BS3 3LT",
+            "City": "Bristol",
+            "CuisineTypes": [
+                {
+                    "Id": 31,
+                    "Name": "Indian",
+                    "SeoName": null
+                }
+            ],
+            "Url": "http://zalltandoori-bs3.just-eat.co.uk",
+            "IsOpenNow": true,
+            "IsSponsored": false,
+            "IsNew": false,
+            "IsTemporarilyOffline": false,
+            "ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+            "UniqueName": "zalltandoori-bs3",
+            "IsCloseBy": false,
+            "IsHalal": true,
+            "DefaultDisplayRank": 33,
+            "IsOpenNowForDelivery": true,
+            "IsOpenNowForCollection": true,
+            "RatingStars": 5.35,
+            "Logo": [
+                {
+                    "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/32351.gif"
+                }
+            ],
+            "Deals": [
+                {
+                    "Description": "20% off when you spend £25",
+                    "DiscountPercent": "20",
+                    "QualifyingPrice": "25.00"
+                }
+            ],
+            "NumberOfRatings": 242
+        },
+        {
+            "Id": 38127,
+            "Name": "Ganges Indian Restaurant & Takeaway",
+            "Address": "368 Gloucester Road Avon",
+            "Postcode": "BS7 8TP",
+            "City": "Bristol",
+            "CuisineTypes": [
+                {
+                    "Id": 31,
+                    "Name": "Indian",
+                    "SeoName": null
+                }
+            ],
+            "Url": "http://ganges-indian-bs7.just-eat.co.uk",
+            "IsOpenNow": true,
+            "IsSponsored": false,
+            "IsNew": false,
+            "IsTemporarilyOffline": false,
+            "ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+            "UniqueName": "ganges-indian-bs7",
+            "IsCloseBy": false,
+            "IsHalal": false,
+            "DefaultDisplayRank": 30,
+            "IsOpenNowForDelivery": true,
+            "IsOpenNowForCollection": true,
+            "RatingStars": 5.4,
+            "Logo": [
+                {
+                    "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/38127.gif"
+                }
+            ],
+            "Deals": [],
+            "NumberOfRatings": 14
+        },
+        {
+            "Id": 38042,
+            "Name": "Tops Pizza",
+            "Address": "14 Cotham Hill",
+            "Postcode": "BS6 6LF",
+            "City": "Bristol",
+            "CuisineTypes": [
+                {
+                    "Id": 82,
+                    "Name": "Pizza",
+                    "SeoName": null
+                }
+            ],
+            "Url": "http://tops-pizza-bs6.just-eat.co.uk",
+            "IsOpenNow": true,
+            "IsSponsored": false,
+            "IsNew": false,
+            "IsTemporarilyOffline": false,
+            "ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+            "UniqueName": "tops-pizza-bs6",
+            "IsCloseBy": false,
+            "IsHalal": false,
+            "DefaultDisplayRank": 25,
+            "IsOpenNowForDelivery": true,
+            "IsOpenNowForCollection": true,
+            "RatingStars": 5.46,
+            "Logo": [
+                {
+                    "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/38042.gif"
+                }
+            ],
+            "Deals": [],
+            "NumberOfRatings": 101
+        },
+        {
+            "Id": 25037,
+            "Name": "Best Spice",
+            "Address": "180 Wells Road",
+            "Postcode": "BS4 2AL",
+            "City": "Knowle",
+            "CuisineTypes": [
+                {
+                    "Id": 31,
+                    "Name": "Indian",
+                    "SeoName": null
+                }
+            ],
+            "Url": "http://bestspice-bs4.just-eat.co.uk",
+            "IsOpenNow": true,
+            "IsSponsored": false,
+            "IsNew": false,
+            "IsTemporarilyOffline": false,
+            "ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+            "UniqueName": "bestspice-bs4",
+            "IsCloseBy": false,
+            "IsHalal": false,
+            "DefaultDisplayRank": 70,
+            "IsOpenNowForDelivery": true,
+            "IsOpenNowForCollection": true,
+            "RatingStars": 4.65,
+            "Logo": [
+                {
+                    "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/25037.gif"
+                }
+            ],
+            "Deals": [],
+            "NumberOfRatings": 62
+        },
+        {
+            "Id": 7851,
+            "Name": "Spice Out",
+            "Address": "211 Wellington Hill",
+            "Postcode": "BS9 4QL",
+            "City": "Bristol",
+            "CuisineTypes": [
+                {
+                    "Id": 31,
+                    "Name": "Indian",
+                    "SeoName": null
+                },
+                {
+                    "Id": 50,
+                    "Name": "Bangladeshi",
+                    "SeoName": null
+                }
+            ],
+            "Url": "http://spice-out-bs9.just-eat.co.uk",
+            "IsOpenNow": true,
+            "IsSponsored": false,
+            "IsNew": false,
+            "IsTemporarilyOffline": false,
+            "ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+            "UniqueName": "spice-out-bs9",
+            "IsCloseBy": false,
+            "IsHalal": false,
+            "DefaultDisplayRank": 63,
+            "IsOpenNowForDelivery": true,
+            "IsOpenNowForCollection": true,
+            "RatingStars": 4.78,
+            "Logo": [
+                {
+                    "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/7851.gif"
+                }
+            ],
+            "Deals": [
+                {
+                    "Description": "20% off when you spend £20",
+                    "DiscountPercent": "20",
+                    "QualifyingPrice": "20.00"
+                }
+            ],
+            "NumberOfRatings": 208
+        },
+        {
+            "Id": 20593,
+            "Name": "Pimms Pizza",
+            "Address": "257 North Street",
+            "Postcode": "BS3 1JN",
+            "City": "Bristol",
+            "CuisineTypes": [
+                {
+                    "Id": 22,
+                    "Name": "American",
+                    "SeoName": null
+                },
+                {
+                    "Id": 82,
+                    "Name": "Pizza",
+                    "SeoName": null
+                }
+            ],
+            "Url": "http://Pimmspizza-bs3.just-eat.co.uk",
+            "IsOpenNow": true,
+            "IsSponsored": false,
+            "IsNew": false,
+            "IsTemporarilyOffline": false,
+            "ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+            "UniqueName": "Pimmspizza-bs3",
+            "IsCloseBy": false,
+            "IsHalal": false,
+            "DefaultDisplayRank": 35,
+            "IsOpenNowForDelivery": true,
+            "IsOpenNowForCollection": true,
+            "RatingStars": 5.32,
+            "Logo": [
+                {
+                    "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/20593.gif"
+                }
+            ],
+            "Deals": [
+                {
+                    "Description": "20% off when you spend £25",
+                    "DiscountPercent": "20",
+                    "QualifyingPrice": "25.00"
+                }
+            ],
+            "NumberOfRatings": 95
+        },
+        {
+            "Id": 22466,
+            "Name": "Piri Piri Corner",
+            "Address": "250a Stapleton Road",
+            "Postcode": "BS5 0NT",
+            "City": "Bristol",
+            "CuisineTypes": [
+                {
+                    "Id": 79,
+                    "Name": "Chicken",
+                    "SeoName": null
+                }
+            ],
+            "Url": "http://Piripiricorner-BS5.just-eat.co.uk",
+            "IsOpenNow": true,
+            "IsSponsored": false,
+            "IsNew": false,
+            "IsTemporarilyOffline": false,
+            "ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+            "UniqueName": "Piripiricorner-BS5",
+            "IsCloseBy": false,
+            "IsHalal": false,
+            "DefaultDisplayRank": 86,
+            "IsOpenNowForDelivery": true,
+            "IsOpenNowForCollection": true,
+            "RatingStars": 4.13,
+            "Logo": [
+                {
+                    "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/22466.gif"
+                }
+            ],
+            "Deals": [],
+            "NumberOfRatings": 110
+        },
+        {
+            "Id": 19883,
+            "Name": "Happiness Chinese Takeaway & Fish Bar",
+            "Address": "34 Westbury Lane",
+            "Postcode": "BS9 2PP",
+            "City": "Coombe Dingle",
+            "CuisineTypes": [
+                {
+                    "Id": 33,
+                    "Name": "Chinese",
+                    "SeoName": null
+                }
+            ],
+            "Url": "http://happinesschinesetakeawayfishbar.just-eat.co.uk",
+            "IsOpenNow": true,
+            "IsSponsored": false,
+            "IsNew": false,
+            "IsTemporarilyOffline": false,
+            "ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+            "UniqueName": "happinesschinesetakeawayfishbar",
+            "IsCloseBy": false,
+            "IsHalal": false,
+            "DefaultDisplayRank": 60,
+            "IsOpenNowForDelivery": true,
+            "IsOpenNowForCollection": true,
+            "RatingStars": 4.83,
+            "Logo": [
+                {
+                    "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/19883.gif"
+                }
+            ],
+            "Deals": [],
+            "NumberOfRatings": 334
+        },
+        {
+            "Id": 2491,
+            "Name": "M.I.S Pizza & Kebab",
+            "Address": "29 West Street",
+            "Postcode": "BS2 0BZ",
+            "City": "Bristol",
+            "CuisineTypes": [
+                {
+                    "Id": 27,
+                    "Name": "Italian",
+                    "SeoName": null
+                },
+                {
+                    "Id": 82,
+                    "Name": "Pizza",
+                    "SeoName": null
+                }
+            ],
+            "Url": "http://M-I-S-Pizza.just-eat.co.uk",
+            "IsOpenNow": true,
+            "IsSponsored": false,
+            "IsNew": false,
+            "IsTemporarilyOffline": false,
+            "ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+            "UniqueName": "M-I-S-Pizza",
+            "IsCloseBy": false,
+            "IsHalal": false,
+            "DefaultDisplayRank": 56,
+            "IsOpenNowForDelivery": true,
+            "IsOpenNowForCollection": true,
+            "RatingStars": 4.9,
+            "Logo": [
+                {
+                    "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/2491.gif"
+                }
+            ],
+            "Deals": [],
+            "NumberOfRatings": 215
+        },
+        {
+            "Id": 19175,
+            "Name": "Obento",
+            "Address": "69 Baldwin Steet",
+            "Postcode": "BS1 1QZ",
+            "City": "Bristol",
+            "CuisineTypes": [
+                {
+                    "Id": 35,
+                    "Name": "Japanese",
+                    "SeoName": null
+                },
+                {
+                    "Id": 83,
+                    "Name": "Sushi",
+                    "SeoName": null
+                }
+            ],
+            "Url": "http://obento-bs1.just-eat.co.uk",
+            "IsOpenNow": true,
+            "IsSponsored": false,
+            "IsNew": false,
+            "IsTemporarilyOffline": false,
+            "ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+            "UniqueName": "obento-bs1",
+            "IsCloseBy": false,
+            "IsHalal": false,
+            "DefaultDisplayRank": 68,
+            "IsOpenNowForDelivery": true,
+            "IsOpenNowForCollection": false,
+            "RatingStars": 4.68,
+            "Logo": [
+                {
+                    "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/19175.gif"
+                }
+            ],
+            "Deals": [],
+            "NumberOfRatings": 218
+        },
+        {
+            "Id": 22794,
+            "Name": "Street Food Express",
+            "Address": "39 Gloucester Road",
+            "Postcode": "BS7 8AD",
+            "City": "Bristol",
+            "CuisineTypes": [
+                {
+                    "Id": 33,
+                    "Name": "Chinese",
+                    "SeoName": null
+                },
+                {
+                    "Id": 30,
+                    "Name": "Thai",
+                    "SeoName": null
+                }
+            ],
+            "Url": "http://streetfood-bs7.just-eat.co.uk",
+            "IsOpenNow": true,
+            "IsSponsored": false,
+            "IsNew": false,
+            "IsTemporarilyOffline": false,
+            "ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+            "UniqueName": "streetfood-bs7",
+            "IsCloseBy": false,
+            "IsHalal": false,
+            "DefaultDisplayRank": 83,
+            "IsOpenNowForDelivery": true,
+            "IsOpenNowForCollection": true,
+            "RatingStars": 4.24,
+            "Logo": [
+                {
+                    "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/22794.gif"
+                }
+            ],
+            "Deals": [],
+            "NumberOfRatings": 128
+        },
+        {
+            "Id": 31263,
+            "Name": "Thai Classic",
+            "Address": "87 Whiteladies Road",
+            "Postcode": "BS8 2NT",
+            "City": "Bristol",
+            "CuisineTypes": [
+                {
+                    "Id": 30,
+                    "Name": "Thai",
+                    "SeoName": null
+                }
+            ],
+            "Url": "http://thaiclassic-bs8.just-eat.co.uk",
+            "IsOpenNow": true,
+            "IsSponsored": false,
+            "IsNew": false,
+            "IsTemporarilyOffline": false,
+            "ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+            "UniqueName": "thaiclassic-bs8",
+            "IsCloseBy": true,
+            "IsHalal": true,
+            "DefaultDisplayRank": 14,
+            "IsOpenNowForDelivery": true,
+            "IsOpenNowForCollection": true,
+            "RatingStars": 4.46,
+            "Logo": [
+                {
+                    "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/31263.gif"
+                }
+            ],
+            "Deals": [],
+            "NumberOfRatings": 47
+        },
+        {
+            "Id": 24823,
+            "Name": "Aroma",
+            "Address": "152 Whiteladies Road",
+            "Postcode": "BS8 2XZ",
+            "City": "Bristol",
+            "CuisineTypes": [
+                {
+                    "Id": 33,
+                    "Name": "Chinese",
+                    "SeoName": null
+                }
+            ],
+            "Url": "http://aroma-bs8.just-eat.co.uk",
+            "IsOpenNow": true,
+            "IsSponsored": false,
+            "IsNew": false,
+            "IsTemporarilyOffline": false,
+            "ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+            "UniqueName": "aroma-bs8",
+            "IsCloseBy": true,
+            "IsHalal": false,
+            "DefaultDisplayRank": 13,
+            "IsOpenNowForDelivery": true,
+            "IsOpenNowForCollection": true,
+            "RatingStars": 4.5,
+            "Logo": [
+                {
+                    "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/24823.gif"
+                }
+            ],
+            "Deals": [],
+            "NumberOfRatings": 144
+        },
+        {
+            "Id": 29407,
+            "Name": "Red Hot Goodies",
+            "Address": "13 Cannon Street",
+            "Postcode": "BS3 1BH",
+            "City": "Bristol",
+            "CuisineTypes": [
+                {
+                    "Id": 33,
+                    "Name": "Chinese",
+                    "SeoName": null
+                }
+            ],
+            "Url": "http://redhotgoodies-bs3.just-eat.co.uk",
+            "IsOpenNow": true,
+            "IsSponsored": false,
+            "IsNew": false,
+            "IsTemporarilyOffline": false,
+            "ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+            "UniqueName": "redhotgoodies-bs3",
+            "IsCloseBy": false,
+            "IsHalal": false,
+            "DefaultDisplayRank": 47,
+            "IsOpenNowForDelivery": true,
+            "IsOpenNowForCollection": true,
+            "RatingStars": 5.18,
+            "Logo": [
+                {
+                    "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/29407.gif"
+                }
+            ],
+            "Deals": [],
+            "NumberOfRatings": 245
+        },
+        {
+            "Id": 31893,
+            "Name": "Magic Roll Taka Taka",
+            "Address": "3 Queens Row, Triangle",
+            "Postcode": "BS8 1EZ",
+            "City": "Avon",
+            "CuisineTypes": [
+                {
+                    "Id": 28,
+                    "Name": "Greek",
+                    "SeoName": null
+                }
+            ],
+            "Url": "http://magicrolltakataka-bs8.just-eat.co.uk",
+            "IsOpenNow": true,
+            "IsSponsored": false,
+            "IsNew": false,
+            "IsTemporarilyOffline": false,
+            "ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+            "UniqueName": "magicrolltakataka-bs8",
+            "IsCloseBy": true,
+            "IsHalal": true,
+            "DefaultDisplayRank": 18,
+            "IsOpenNowForDelivery": true,
+            "IsOpenNowForCollection": true,
+            "RatingStars": 4.13,
+            "Logo": [
+                {
+                    "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/31893.gif"
+                }
+            ],
+            "Deals": [],
+            "NumberOfRatings": 36
+        },
+        {
+            "Id": 31681,
+            "Name": "Henbury Balti House",
+            "Address": "145 Crow Lane",
+            "Postcode": "BS10 7DS",
+            "City": "Bristol",
+            "CuisineTypes": [
+                {
+                    "Id": 31,
+                    "Name": "Indian",
+                    "SeoName": null
+                }
+            ],
+            "Url": "http://henburybaltihouse-bs10.just-eat.co.uk",
+            "IsOpenNow": true,
+            "IsSponsored": false,
+            "IsNew": false,
+            "IsTemporarilyOffline": false,
+            "ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+            "UniqueName": "henburybaltihouse-bs10",
+            "IsCloseBy": false,
+            "IsHalal": true,
+            "DefaultDisplayRank": 39,
+            "IsOpenNowForDelivery": true,
+            "IsOpenNowForCollection": true,
+            "RatingStars": 5.28,
+            "Logo": [
+                {
+                    "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/31681.gif"
+                }
+            ],
+            "Deals": [],
+            "NumberOfRatings": 94
+        },
+        {
+            "Id": 35630,
+            "Name": "The Bristol Fryer",
+            "Address": "431 Gloucester Road",
+            "Postcode": "BS7 8TZ",
+            "City": "Bristol",
+            "CuisineTypes": [
+                {
+                    "Id": 80,
+                    "Name": "Fish & Chips",
+                    "SeoName": null
+                },
+                {
+                    "Id": 81,
+                    "Name": "Kebabs",
+                    "SeoName": null
+                }
+            ],
+            "Url": "http://the-bristol-fryer-bs7.just-eat.co.uk",
+            "IsOpenNow": true,
+            "IsSponsored": false,
+            "IsNew": false,
+            "IsTemporarilyOffline": false,
+            "ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+            "UniqueName": "the-bristol-fryer-bs7",
+            "IsCloseBy": false,
+            "IsHalal": true,
+            "DefaultDisplayRank": 55,
+            "IsOpenNowForDelivery": true,
+            "IsOpenNowForCollection": false,
+            "RatingStars": 4.91,
+            "Logo": [
+                {
+                    "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/35630.gif"
+                }
+            ],
+            "Deals": [],
+            "NumberOfRatings": 94
+        },
+        {
+            "Id": 28945,
+            "Name": "The Roopsha",
+            "Address": "3a Regent Street",
+            "Postcode": "BS8 4HW",
+            "City": "Bristol",
+            "CuisineTypes": [
+                {
+                    "Id": 31,
+                    "Name": "Indian",
+                    "SeoName": null
+                }
+            ],
+            "Url": "http://roopsha-bs8.just-eat.co.uk",
+            "IsOpenNow": true,
+            "IsSponsored": false,
+            "IsNew": false,
+            "IsTemporarilyOffline": false,
+            "ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+            "UniqueName": "roopsha-bs8",
+            "IsCloseBy": true,
+            "IsHalal": false,
+            "DefaultDisplayRank": 15,
+            "IsOpenNowForDelivery": true,
+            "IsOpenNowForCollection": true,
+            "RatingStars": 4.43,
+            "Logo": [
+                {
+                    "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/28945.gif"
+                }
+            ],
+            "Deals": [
+                {
+                    "Description": "20% off when you spend £20",
+                    "DiscountPercent": "20",
+                    "QualifyingPrice": "20.00"
+                }
+            ],
+            "NumberOfRatings": 49
+        },
+        {
+            "Id": 38286,
+            "Name": "Raj Gate Tandoori",
+            "Address": "5 Trymwood Parade Shirehampton Road",
+            "Postcode": "BS9 2DP",
+            "City": "Bristol",
+            "CuisineTypes": [
+                {
+                    "Id": 31,
+                    "Name": "Indian",
+                    "SeoName": null
+                }
+            ],
+            "Url": "http://rajgatetandoori-bs9.just-eat.co.uk",
+            "IsOpenNow": true,
+            "IsSponsored": false,
+            "IsNew": false,
+            "IsTemporarilyOffline": false,
+            "ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+            "UniqueName": "rajgatetandoori-bs9",
+            "IsCloseBy": false,
+            "IsHalal": false,
+            "DefaultDisplayRank": 50,
+            "IsOpenNowForDelivery": true,
+            "IsOpenNowForCollection": true,
+            "RatingStars": 5.13,
+            "Logo": [
+                {
+                    "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/38286.gif"
+                }
+            ],
+            "Deals": [],
+            "NumberOfRatings": 16
+        },
+        {
+            "Id": 34489,
+            "Name": "Masala Hut",
+            "Address": "74 Bedminster Parade",
+            "Postcode": "BS3 4HL",
+            "City": "Bristol",
+            "CuisineTypes": [
+                {
+                    "Id": 31,
+                    "Name": "Indian",
+                    "SeoName": null
+                },
+                {
+                    "Id": 93,
+                    "Name": "Peri Peri",
+                    "SeoName": null
+                }
+            ],
+            "Url": "http://masalahut-bs3.just-eat.co.uk",
+            "IsOpenNow": true,
+            "IsSponsored": false,
+            "IsNew": false,
+            "IsTemporarilyOffline": false,
+            "ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+            "UniqueName": "masalahut-bs3",
+            "IsCloseBy": false,
+            "IsHalal": true,
+            "DefaultDisplayRank": 37,
+            "IsOpenNowForDelivery": true,
+            "IsOpenNowForCollection": true,
+            "RatingStars": 5.31,
+            "Logo": [
+                {
+                    "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/34489.gif"
+                }
+            ],
+            "Deals": [],
+            "NumberOfRatings": 143
+        },
+        {
+            "Id": 38667,
+            "Name": "Pepe Nero",
+            "Address": "22 Bond Street",
+            "Postcode": "BS1 3LU",
+            "City": "Bristol",
+            "CuisineTypes": [
+                {
+                    "Id": 27,
+                    "Name": "Italian",
+                    "SeoName": null
+                },
+                {
+                    "Id": 82,
+                    "Name": "Pizza",
+                    "SeoName": null
+                }
+            ],
+            "Url": "http://pepenerpo-bs1.just-eat.co.uk",
+            "IsOpenNow": true,
+            "IsSponsored": false,
+            "IsNew": false,
+            "IsTemporarilyOffline": false,
+            "ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+            "UniqueName": "pepenerpo-bs1",
+            "IsCloseBy": false,
+            "IsHalal": false,
+            "DefaultDisplayRank": 43,
+            "IsOpenNowForDelivery": true,
+            "IsOpenNowForCollection": true,
+            "RatingStars": 5.22,
+            "Logo": [
+                {
+                    "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/38667.gif"
+                }
+            ],
+            "Deals": [],
+            "NumberOfRatings": 49
+        },
+        {
+            "Id": 40986,
+            "Name": "Rajmoni",
+            "Address": "88a Queens Road",
+            "Postcode": "BS8 1SA",
+            "City": "Clifton, Bristol",
+            "CuisineTypes": [
+                {
+                    "Id": 31,
+                    "Name": "Indian",
+                    "SeoName": null
+                },
+                {
+                    "Id": 50,
+                    "Name": "Bangladeshi",
+                    "SeoName": null
+                }
+            ],
+            "Url": "http://rajmoni-bs8.just-eat.co.uk",
+            "IsOpenNow": true,
+            "IsSponsored": false,
+            "IsNew": false,
+            "IsTemporarilyOffline": false,
+            "ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+            "UniqueName": "rajmoni-bs8",
+            "IsCloseBy": true,
+            "IsHalal": true,
+            "DefaultDisplayRank": 17,
+            "IsOpenNowForDelivery": true,
+            "IsOpenNowForCollection": true,
+            "RatingStars": 4.2,
+            "Logo": [
+                {
+                    "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/40986.gif"
+                }
+            ],
+            "Deals": [
+                {
+                    "Description": "20% off when you spend £20",
+                    "DiscountPercent": "20",
+                    "QualifyingPrice": "20.00"
+                }
+            ],
+            "NumberOfRatings": 5
+        },
+        {
+            "Id": 41431,
+            "Name": "Wongs Chinese Restaurant",
+            "Address": "12 Denmark Street",
+            "Postcode": "BS1 5DQ",
+            "City": "Bristol",
+            "CuisineTypes": [
+                {
+                    "Id": 33,
+                    "Name": "Chinese",
+                    "SeoName": null
+                }
+            ],
+            "Url": "http://wongschinese-bs1.just-eat.co.uk",
+            "IsOpenNow": true,
+            "IsSponsored": false,
+            "IsNew": false,
+            "IsTemporarilyOffline": false,
+            "ReasonWhyTemporarilyOffline": "",
+            "UniqueName": "wongschinese-bs1",
+            "IsCloseBy": false,
+            "IsHalal": false,
+            "DefaultDisplayRank": 27,
+            "IsOpenNowForDelivery": true,
+            "IsOpenNowForCollection": true,
+            "RatingStars": 5.44,
+            "Logo": [
+                {
+                    "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/41431.gif"
+                }
+            ],
+            "Deals": [],
+            "NumberOfRatings": 6
+        },
+        {
+            "Id": 2321,
+            "Name": "Ahmeds Curry Cafe",
+            "Address": "1E Chandos Road Redland",
+            "Postcode": "BS6 6PG",
+            "City": "Bristol",
+            "CuisineTypes": [
+                {
+                    "Id": 31,
+                    "Name": "Indian",
+                    "SeoName": null
+                }
+            ],
+            "Url": "http://ahmeds-curry-cafe.just-eat.co.uk",
+            "IsOpenNow": true,
+            "IsSponsored": false,
+            "IsNew": false,
+            "IsTemporarilyOffline": false,
+            "ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+            "UniqueName": "ahmeds-curry-cafe",
+            "IsCloseBy": false,
+            "IsHalal": false,
+            "DefaultDisplayRank": 58,
+            "IsOpenNowForDelivery": true,
+            "IsOpenNowForCollection": true,
+            "RatingStars": 4.87,
+            "Logo": [
+                {
+                    "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/2321.gif"
+                }
+            ],
+            "Deals": [],
+            "NumberOfRatings": 93
+        },
+        {
+            "Id": 41467,
+            "Name": "Mirchi Indian",
+            "Address": "141 Church Road",
+            "Postcode": "BS5 9LA",
+            "City": "Bristol",
+            "CuisineTypes": [
+                {
+                    "Id": 31,
+                    "Name": "Indian",
+                    "SeoName": null
+                },
+                {
+                    "Id": 81,
+                    "Name": "Kebabs",
+                    "SeoName": null
+                }
+            ],
+            "Url": "http://mirchiindian-bs5.just-eat.co.uk",
+            "IsOpenNow": true,
+            "IsSponsored": false,
+            "IsNew": false,
+            "IsTemporarilyOffline": false,
+            "ReasonWhyTemporarilyOffline": "",
+            "UniqueName": "mirchiindian-bs5",
+            "IsCloseBy": false,
+            "IsHalal": true,
+            "DefaultDisplayRank": 24,
+            "IsOpenNowForDelivery": true,
+            "IsOpenNowForCollection": true,
+            "RatingStars": 5.49,
+            "Logo": [
+                {
+                    "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/41467.gif"
+                }
+            ],
+            "Deals": [
+                {
+                    "Description": "20% off when you spend £25",
+                    "DiscountPercent": "20",
+                    "QualifyingPrice": "25.00"
+                }
+            ],
+            "NumberOfRatings": 29
+        },
+        {
+            "Id": 41533,
+            "Name": "Masala",
+            "Address": "130 Nibley Road",
+            "Postcode": "BS11 9XN",
+            "City": "Bristol",
+            "CuisineTypes": [
+                {
+                    "Id": 31,
+                    "Name": "Indian",
+                    "SeoName": null
+                }
+            ],
+            "Url": "http://masala-bs11.just-eat.co.uk",
+            "IsOpenNow": true,
+            "IsSponsored": false,
+            "IsNew": false,
+            "IsTemporarilyOffline": false,
+            "ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+            "UniqueName": "masala-bs11",
+            "IsCloseBy": false,
+            "IsHalal": true,
+            "DefaultDisplayRank": 26,
+            "IsOpenNowForDelivery": true,
+            "IsOpenNowForCollection": true,
+            "RatingStars": 5.45,
+            "Logo": [
+                {
+                    "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/41533.gif"
+                }
+            ],
+            "Deals": [],
+            "NumberOfRatings": 26
+        },
+        {
+            "Id": 13220,
+            "Name": "New Bristol Raj",
+            "Address": "36 Alma Vale Road",
+            "Postcode": "BS8 2HS",
+            "City": "Clifton Bristol",
+            "CuisineTypes": [
+                {
+                    "Id": 31,
+                    "Name": "Indian",
+                    "SeoName": null
+                }
+            ],
+            "Url": "http://newbristolraj.just-eat.co.uk",
+            "IsOpenNow": true,
+            "IsSponsored": false,
+            "IsNew": false,
+            "IsTemporarilyOffline": false,
+            "ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+            "UniqueName": "newbristolraj",
+            "IsCloseBy": true,
+            "IsHalal": false,
+            "DefaultDisplayRank": 12,
+            "IsOpenNowForDelivery": true,
+            "IsOpenNowForCollection": true,
+            "RatingStars": 4.61,
+            "Logo": [
+                {
+                    "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/13220.gif"
+                }
+            ],
+            "Deals": [],
+            "NumberOfRatings": 62
+        },
+        {
+            "Id": 41284,
+            "Name": "Lal Jomi",
+            "Address": "2 Harcourt Road",
+            "Postcode": "BS6 7RG",
+            "City": "Bristol",
+            "CuisineTypes": [
+                {
+                    "Id": 31,
+                    "Name": "Indian",
+                    "SeoName": null
+                }
+            ],
+            "Url": "http://laljomi-bs6.just-eat.co.uk",
+            "IsOpenNow": true,
+            "IsSponsored": false,
+            "IsNew": false,
+            "IsTemporarilyOffline": false,
+            "ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+            "UniqueName": "laljomi-bs6",
+            "IsCloseBy": false,
+            "IsHalal": false,
+            "DefaultDisplayRank": 23,
+            "IsOpenNowForDelivery": true,
+            "IsOpenNowForCollection": true,
+            "RatingStars": 5.5,
+            "Logo": [
+                {
+                    "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/41284.gif"
+                }
+            ],
+            "Deals": [
+                {
+                    "Description": "20% off when you spend £20",
+                    "DiscountPercent": "20",
+                    "QualifyingPrice": "20.00"
+                }
+            ],
+            "NumberOfRatings": 6
+        },
+        {
+            "Id": 2322,
+            "Name": "Ahmeds Masala Cafe",
+            "Address": "2 Jacobs Wells Road Hotwells",
+            "Postcode": "BS8 1EA",
+            "City": "Clifton",
+            "CuisineTypes": [
+                {
+                    "Id": 31,
+                    "Name": "Indian",
+                    "SeoName": null
+                }
+            ],
+            "Url": "http://ahmeds-masala-cafe.just-eat.co.uk",
+            "IsOpenNow": true,
+            "IsSponsored": false,
+            "IsNew": false,
+            "IsTemporarilyOffline": false,
+            "ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+            "UniqueName": "ahmeds-masala-cafe",
+            "IsCloseBy": true,
+            "IsHalal": false,
+            "DefaultDisplayRank": 8,
+            "IsOpenNowForDelivery": true,
+            "IsOpenNowForCollection": false,
+            "RatingStars": 4.98,
+            "Logo": [
+                {
+                    "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/2322.gif"
+                }
+            ],
+            "Deals": [],
+            "NumberOfRatings": 189
+        },
+        {
+            "Id": 29059,
+            "Name": "Sweet Chilly",
+            "Address": "331 Southmead Road",
+            "Postcode": "BS10 5LW",
+            "City": "Bristol",
+            "CuisineTypes": [
+                {
+                    "Id": 31,
+                    "Name": "Indian",
+                    "SeoName": null
+                }
+            ],
+            "Url": "http://sweetchilly-bs10.just-eat.co.uk",
+            "IsOpenNow": true,
+            "IsSponsored": false,
+            "IsNew": false,
+            "IsTemporarilyOffline": false,
+            "ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+            "UniqueName": "sweetchilly-bs10",
+            "IsCloseBy": false,
+            "IsHalal": true,
+            "DefaultDisplayRank": 28,
+            "IsOpenNowForDelivery": true,
+            "IsOpenNowForCollection": true,
+            "RatingStars": 5.42,
+            "Logo": [
+                {
+                    "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/29059.gif"
+                }
+            ],
+            "Deals": [
+                {
+                    "Description": "20% off when you spend £20",
+                    "DiscountPercent": "20",
+                    "QualifyingPrice": "20.00"
+                }
+            ],
+            "NumberOfRatings": 136
+        },
+        {
+            "Id": 26508,
+            "Name": "Jubo Raj",
+            "Address": "37b Cotham Hill, Cotham",
+            "Postcode": "BS6 6JY",
+            "City": "Bristol",
+            "CuisineTypes": [
+                {
+                    "Id": 50,
+                    "Name": "Bangladeshi",
+                    "SeoName": null
+                },
+                {
+                    "Id": 31,
+                    "Name": "Indian",
+                    "SeoName": null
+                }
+            ],
+            "Url": "http://juboraj-bs6.just-eat.co.uk",
+            "IsOpenNow": true,
+            "IsSponsored": false,
+            "IsNew": false,
+            "IsTemporarilyOffline": false,
+            "ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+            "UniqueName": "juboraj-bs6",
+            "IsCloseBy": false,
+            "IsHalal": false,
+            "DefaultDisplayRank": 31,
+            "IsOpenNowForDelivery": true,
+            "IsOpenNowForCollection": true,
+            "RatingStars": 5.38,
+            "Logo": [
+                {
+                    "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/26508.gif"
+                }
+            ],
+            "Deals": [],
+            "NumberOfRatings": 72
+        },
+        {
+            "Id": 42247,
+            "Name": "Dennis Kebab House",
+            "Address": "40 Cannon Street",
+            "Postcode": "BS3 1BN",
+            "City": "Bedminister",
+            "CuisineTypes": [
+                {
+                    "Id": 25,
+                    "Name": "Turkish",
+                    "SeoName": null
+                },
+                {
+                    "Id": 81,
+                    "Name": "Kebabs",
+                    "SeoName": null
+                }
+            ],
+            "Url": "http://dennis-kebab-bs3.just-eat.co.uk",
+            "IsOpenNow": true,
+            "IsSponsored": false,
+            "IsNew": false,
+            "IsTemporarilyOffline": false,
+            "ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+            "UniqueName": "dennis-kebab-bs3",
+            "IsCloseBy": false,
+            "IsHalal": false,
+            "DefaultDisplayRank": 48,
+            "IsOpenNowForDelivery": true,
+            "IsOpenNowForCollection": true,
+            "RatingStars": 5.18,
+            "Logo": [
+                {
+                    "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/42247.gif"
+                }
+            ],
+            "Deals": [],
+            "NumberOfRatings": 15
+        },
+        {
+            "Id": 29074,
+            "Name": "Bombay Spice",
+            "Address": "10 The Mall",
+            "Postcode": "BS8 4DR",
+            "City": "Bristol",
+            "CuisineTypes": [
+                {
+                    "Id": 31,
+                    "Name": "Indian",
+                    "SeoName": null
+                }
+            ],
+            "Url": "http://bombayspice-bs8.just-eat.co.uk",
+            "IsOpenNow": true,
+            "IsSponsored": false,
+            "IsNew": false,
+            "IsTemporarilyOffline": false,
+            "ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+            "UniqueName": "bombayspice-bs8",
+            "IsCloseBy": true,
+            "IsHalal": false,
+            "DefaultDisplayRank": 20,
+            "IsOpenNowForDelivery": true,
+            "IsOpenNowForCollection": true,
+            "RatingStars": 0,
+            "Logo": [
+                {
+                    "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/29074.gif"
+                }
+            ],
+            "Deals": [],
+            "NumberOfRatings": 0
+        },
+        {
+            "Id": 19169,
+            "Name": "Chill Grill",
+            "Address": "7 Waring House Redcliff Hill",
+            "Postcode": "BS1 6TB",
+            "City": "Bristol",
+            "CuisineTypes": [
+                {
+                    "Id": 82,
+                    "Name": "Pizza",
+                    "SeoName": null
+                },
+                {
+                    "Id": 79,
+                    "Name": "Chicken",
+                    "SeoName": null
+                }
+            ],
+            "Url": "http://chill-grill-bs1.just-eat.co.uk",
+            "IsOpenNow": true,
+            "IsSponsored": false,
+            "IsNew": false,
+            "IsTemporarilyOffline": false,
+            "ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+            "UniqueName": "chill-grill-bs1",
+            "IsCloseBy": false,
+            "IsHalal": false,
+            "DefaultDisplayRank": 46,
+            "IsOpenNowForDelivery": true,
+            "IsOpenNowForCollection": true,
+            "RatingStars": 5.18,
+            "Logo": [
+                {
+                    "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/19169.gif"
+                }
+            ],
+            "Deals": [
+                {
+                    "Description": "20% off when you spend £25",
+                    "DiscountPercent": "20",
+                    "QualifyingPrice": "25.00"
+                }
+            ],
+            "NumberOfRatings": 205
+        },
+        {
+            "Id": 41902,
+            "Name": "Crispy Bites",
+            "Address": "141 Church Road",
+            "Postcode": "BS5 9LA",
+            "City": "Bristol",
+            "CuisineTypes": [
+                {
+                    "Id": 81,
+                    "Name": "Kebabs",
+                    "SeoName": null
+                },
+                {
+                    "Id": 88,
+                    "Name": "Gourmet",
+                    "SeoName": null
+                }
+            ],
+            "Url": "http://crispybites-bs5.just-eat.co.uk",
+            "IsOpenNow": true,
+            "IsSponsored": false,
+            "IsNew": false,
+            "IsTemporarilyOffline": false,
+            "ReasonWhyTemporarilyOffline": "",
+            "UniqueName": "crispybites-bs5",
+            "IsCloseBy": false,
+            "IsHalal": true,
+            "DefaultDisplayRank": 44,
+            "IsOpenNowForDelivery": true,
+            "IsOpenNowForCollection": true,
+            "RatingStars": 5.21,
+            "Logo": [
+                {
+                    "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/41902.gif"
+                }
+            ],
+            "Deals": [
+                {
+                    "Description": "20% off when you spend £25",
+                    "DiscountPercent": "20",
+                    "QualifyingPrice": "25.00"
+                }
+            ],
+            "NumberOfRatings": 13
+        },
+        {
+            "Id": 2446,
+            "Name": "Pizza Top To Go",
+            "Address": "110b Church Road",
+            "Postcode": "BS5 9LJ",
+            "City": "Redfield",
+            "CuisineTypes": [
+                {
+                    "Id": 82,
+                    "Name": "Pizza",
+                    "SeoName": null
+                },
+                {
+                    "Id": 27,
+                    "Name": "Italian",
+                    "SeoName": null
+                }
+            ],
+            "Url": "http://pizza-top-to-go.just-eat.co.uk",
+            "IsOpenNow": true,
+            "IsSponsored": false,
+            "IsNew": false,
+            "IsTemporarilyOffline": false,
+            "ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+            "UniqueName": "pizza-top-to-go",
+            "IsCloseBy": false,
+            "IsHalal": false,
+            "DefaultDisplayRank": 57,
+            "IsOpenNowForDelivery": true,
+            "IsOpenNowForCollection": true,
+            "RatingStars": 4.88,
+            "Logo": [
+                {
+                    "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/2446.gif"
+                }
+            ],
+            "Deals": [
+                {
+                    "Description": "20% off when you spend £30",
+                    "DiscountPercent": "20",
+                    "QualifyingPrice": "30.00"
+                }
+            ],
+            "NumberOfRatings": 188
+        },
+        {
+            "Id": 18963,
+            "Name": "Zen",
+            "Address": "Unit 4B, First Floor,Explore Lane",
+            "Postcode": "BS1 5TY",
+            "City": "Bristol",
+            "CuisineTypes": [
+                {
+                    "Id": 33,
+                    "Name": "Chinese",
+                    "SeoName": null
+                }
+            ],
+            "Url": "http://zen-bs1.just-eat.co.uk",
+            "IsOpenNow": true,
+            "IsSponsored": false,
+            "IsNew": false,
+            "IsTemporarilyOffline": false,
+            "ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+            "UniqueName": "zen-bs1",
+            "IsCloseBy": false,
+            "IsHalal": false,
+            "DefaultDisplayRank": 77,
+            "IsOpenNowForDelivery": true,
+            "IsOpenNowForCollection": true,
+            "RatingStars": 4.46,
+            "Logo": [
+                {
+                    "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/18963.gif"
+                }
+            ],
+            "Deals": [],
+            "NumberOfRatings": 16
+        },
+        {
+            "Id": 35933,
+            "Name": "Maniks",
+            "Address": "7-11 Gloucester Road North",
+            "Postcode": "BS7 0SG",
+            "City": "Bristol",
+            "CuisineTypes": [
+                {
+                    "Id": 31,
+                    "Name": "Indian",
+                    "SeoName": null
+                },
+                {
+                    "Id": 30,
+                    "Name": "Thai",
+                    "SeoName": null
+                }
+            ],
+            "Url": "http://maniks-bs7.just-eat.co.uk",
+            "IsOpenNow": true,
+            "IsSponsored": false,
+            "IsNew": false,
+            "IsTemporarilyOffline": false,
+            "ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+            "UniqueName": "maniks-bs7",
+            "IsCloseBy": false,
+            "IsHalal": true,
+            "DefaultDisplayRank": 54,
+            "IsOpenNowForDelivery": true,
+            "IsOpenNowForCollection": true,
+            "RatingStars": 4.95,
+            "Logo": [
+                {
+                    "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/35933.gif"
+                }
+            ],
+            "Deals": [
+                {
+                    "Description": "20% off when you spend £20",
+                    "DiscountPercent": "20",
+                    "QualifyingPrice": "20.00"
+                }
+            ],
+            "NumberOfRatings": 235
+        },
+        {
+            "Id": 40891,
+            "Name": "Triangle Grill",
+            "Address": "3 Triangle South",
+            "Postcode": "BS8 1EY",
+            "City": "Avon",
+            "CuisineTypes": [
+                {
+                    "Id": 78,
+                    "Name": "Burgers",
+                    "SeoName": null
+                },
+                {
+                    "Id": 81,
+                    "Name": "Kebabs",
+                    "SeoName": null
+                }
+            ],
+            "Url": "http://trianglegrill-bs8.just-eat.co.uk",
+            "IsOpenNow": true,
+            "IsSponsored": false,
+            "IsNew": false,
+            "IsTemporarilyOffline": false,
+            "ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+            "UniqueName": "trianglegrill-bs8",
+            "IsCloseBy": true,
+            "IsHalal": true,
+            "DefaultDisplayRank": 7,
+            "IsOpenNowForDelivery": true,
+            "IsOpenNowForCollection": true,
+            "RatingStars": 5.02,
+            "Logo": [
+                {
+                    "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/40891.gif"
+                }
+            ],
+            "Deals": [],
+            "NumberOfRatings": 14
+        },
+        {
+            "Id": 20296,
+            "Name": "Pizza Factory",
+            "Address": "143 Church Road",
+            "Postcode": "BS5 9LA",
+            "City": "Bristol",
+            "CuisineTypes": [
+                {
+                    "Id": 82,
+                    "Name": "Pizza",
+                    "SeoName": null
+                },
+                {
+                    "Id": 27,
+                    "Name": "Italian",
+                    "SeoName": null
+                }
+            ],
+            "Url": "http://pizza-factory-bs5.just-eat.co.uk",
+            "IsOpenNow": true,
+            "IsSponsored": false,
+            "IsNew": false,
+            "IsTemporarilyOffline": false,
+            "ReasonWhyTemporarilyOffline": "",
+            "UniqueName": "pizza-factory-bs5",
+            "IsCloseBy": false,
+            "IsHalal": false,
+            "DefaultDisplayRank": 74,
+            "IsOpenNowForDelivery": true,
+            "IsOpenNowForCollection": true,
+            "RatingStars": 4.52,
+            "Logo": [
+                {
+                    "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/20296.gif"
+                }
+            ],
+            "Deals": [
+                {
+                    "Description": "20% off when you spend £25",
+                    "DiscountPercent": "20",
+                    "QualifyingPrice": "25.00"
+                }
+            ],
+            "NumberOfRatings": 88
+        },
+        {
+            "Id": 18340,
+            "Name": "Domus Pizza",
+            "Address": "183 Whiteladies Road",
+            "Postcode": "BS8 2RY",
+            "City": "Bristol",
+            "CuisineTypes": [
+                {
+                    "Id": 27,
+                    "Name": "Italian",
+                    "SeoName": null
+                },
+                {
+                    "Id": 82,
+                    "Name": "Pizza",
+                    "SeoName": null
+                }
+            ],
+            "Url": "http://domuspizza-bs8.just-eat.co.uk",
+            "IsOpenNow": true,
+            "IsSponsored": false,
+            "IsNew": false,
+            "IsTemporarilyOffline": false,
+            "ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+            "UniqueName": "domuspizza-bs8",
+            "IsCloseBy": true,
+            "IsHalal": false,
+            "DefaultDisplayRank": 19,
+            "IsOpenNowForDelivery": true,
+            "IsOpenNowForCollection": true,
+            "RatingStars": 3.31,
+            "Logo": [
+                {
+                    "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/18340.gif"
+                }
+            ],
+            "Deals": [],
+            "NumberOfRatings": 181
+        },
+        {
+            "Id": 40242,
+            "Name": "Oz Wine & Dine",
+            "Address": "4 Triangle South",
+            "Postcode": "BS8 1EY",
+            "City": "Bristol",
+            "CuisineTypes": [
+                {
+                    "Id": 25,
+                    "Name": "Turkish",
+                    "SeoName": null
+                }
+            ],
+            "Url": "http://ozwineanddine-bs8.just-eat.co.uk",
+            "IsOpenNow": true,
+            "IsSponsored": false,
+            "IsNew": false,
+            "IsTemporarilyOffline": false,
+            "ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+            "UniqueName": "ozwineanddine-bs8",
+            "IsCloseBy": true,
+            "IsHalal": false,
+            "DefaultDisplayRank": 5,
+            "IsOpenNowForDelivery": true,
+            "IsOpenNowForCollection": true,
+            "RatingStars": 5.33,
+            "Logo": [
+                {
+                    "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/40242.gif"
+                }
+            ],
+            "Deals": [],
+            "NumberOfRatings": 7
+        },
+        {
+            "Id": 21327,
+            "Name": "Miss Millie's Fried Chicken",
+            "Address": "166 Whiteladies Road, Clifton",
+            "Postcode": "BS8 2XZ",
+            "City": "Bristol",
+            "CuisineTypes": [
+                {
+                    "Id": 22,
+                    "Name": "American",
+                    "SeoName": null
+                },
+                {
+                    "Id": 79,
+                    "Name": "Chicken",
+                    "SeoName": null
+                }
+            ],
+            "Url": "http://missmillies-bs8.just-eat.co.uk",
+            "IsOpenNow": true,
+            "IsSponsored": false,
+            "IsNew": false,
+            "IsTemporarilyOffline": false,
+            "ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+            "UniqueName": "missmillies-bs8",
+            "IsCloseBy": true,
+            "IsHalal": false,
+            "DefaultDisplayRank": 10,
+            "IsOpenNowForDelivery": true,
+            "IsOpenNowForCollection": true,
+            "RatingStars": 4.88,
+            "Logo": [
+                {
+                    "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/21327.gif"
+                }
+            ],
+            "Deals": [],
+            "NumberOfRatings": 179
+        },
+        {
+            "Id": 7716,
+            "Name": "China Capital",
+            "Address": "24 Ashton Road",
+            "Postcode": "BS3 2EA",
+            "City": "Bristol",
+            "CuisineTypes": [
+                {
+                    "Id": 33,
+                    "Name": "Chinese",
+                    "SeoName": null
+                },
+                {
+                    "Id": 30,
+                    "Name": "Thai",
+                    "SeoName": null
+                }
+            ],
+            "Url": "http://chinacapital.just-eat.co.uk",
+            "IsOpenNow": true,
+            "IsSponsored": false,
+            "IsNew": false,
+            "IsTemporarilyOffline": false,
+            "ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+            "UniqueName": "chinacapital",
+            "IsCloseBy": false,
+            "IsHalal": false,
+            "DefaultDisplayRank": 59,
+            "IsOpenNowForDelivery": true,
+            "IsOpenNowForCollection": true,
+            "RatingStars": 4.84,
+            "Logo": [
+                {
+                    "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/7716.gif"
+                }
+            ],
+            "Deals": [],
+            "NumberOfRatings": 901
+        },
+        {
+            "Id": 7784,
+            "Name": "Neeshad Balti",
+            "Address": "40 Westbury Lane",
+            "Postcode": "BS9 2PP",
+            "City": "Bristol",
+            "CuisineTypes": [
+                {
+                    "Id": 31,
+                    "Name": "Indian",
+                    "SeoName": null
+                }
+            ],
+            "Url": "http://neeshad-balti.just-eat.co.uk",
+            "IsOpenNow": true,
+            "IsSponsored": false,
+            "IsNew": false,
+            "IsTemporarilyOffline": false,
+            "ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+            "UniqueName": "neeshad-balti",
+            "IsCloseBy": false,
+            "IsHalal": true,
+            "DefaultDisplayRank": 49,
+            "IsOpenNowForDelivery": true,
+            "IsOpenNowForCollection": true,
+            "RatingStars": 5.14,
+            "Logo": [
+                {
+                    "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/7784.gif"
+                }
+            ],
+            "Deals": [],
+            "NumberOfRatings": 155
+        },
+        {
+            "Id": 14187,
+            "Name": "Namaste Nepal",
+            "Address": "Unit 2 Unite House Frogmore Street",
+            "Postcode": "BS1 5NA",
+            "City": "Bristol",
+            "CuisineTypes": [
+                {
+                    "Id": 57,
+                    "Name": "Nepalese",
+                    "SeoName": null
+                },
+                {
+                    "Id": 31,
+                    "Name": "Indian",
+                    "SeoName": null
+                }
+            ],
+            "Url": "http://namastenepalbs1.just-eat.co.uk",
+            "IsOpenNow": true,
+            "IsSponsored": false,
+            "IsNew": false,
+            "IsTemporarilyOffline": false,
+            "ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+            "UniqueName": "namastenepalbs1",
+            "IsCloseBy": false,
+            "IsHalal": true,
+            "DefaultDisplayRank": 62,
+            "IsOpenNowForDelivery": true,
+            "IsOpenNowForCollection": true,
+            "RatingStars": 4.8,
+            "Logo": [
+                {
+                    "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/14187.gif"
+                }
+            ],
+            "Deals": [
+                {
+                    "Description": "20% off when you spend £25",
+                    "DiscountPercent": "20",
+                    "QualifyingPrice": "25.00"
+                }
+            ],
+            "NumberOfRatings": 88
+        },
+        {
+            "Id": 4985,
+            "Name": "Snappy Tomato Pizza",
+            "Address": "55 Baldwin Street",
+            "Postcode": "BS1 1RA",
+            "City": "Bristol",
+            "CuisineTypes": [
+                {
+                    "Id": 27,
+                    "Name": "Italian",
+                    "SeoName": null
+                },
+                {
+                    "Id": 82,
+                    "Name": "Pizza",
+                    "SeoName": null
+                }
+            ],
+            "Url": "http://snappy-bristol.just-eat.co.uk",
+            "IsOpenNow": true,
+            "IsSponsored": false,
+            "IsNew": false,
+            "IsTemporarilyOffline": false,
+            "ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+            "UniqueName": "snappy-bristol",
+            "IsCloseBy": false,
+            "IsHalal": false,
+            "DefaultDisplayRank": 52,
+            "IsOpenNowForDelivery": true,
+            "IsOpenNowForCollection": true,
+            "RatingStars": 5.06,
+            "Logo": [
+                {
+                    "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/4985.gif"
+                }
+            ],
+            "Deals": [
+                {
+                    "Description": "20% off when you spend £25",
+                    "DiscountPercent": "20",
+                    "QualifyingPrice": "25.00"
+                }
+            ],
+            "NumberOfRatings": 149
+        },
+        {
+            "Id": 7208,
+            "Name": "Al's Tikka Grill",
+            "Address": "33 Ashton Road",
+            "Postcode": "BS3 2EG",
+            "City": "Bristol",
+            "CuisineTypes": [
+                {
+                    "Id": 31,
+                    "Name": "Indian",
+                    "SeoName": null
+                }
+            ],
+            "Url": "http://als-tikka-grill.just-eat.co.uk",
+            "IsOpenNow": true,
+            "IsSponsored": false,
+            "IsNew": false,
+            "IsTemporarilyOffline": false,
+            "ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+            "UniqueName": "als-tikka-grill",
+            "IsCloseBy": false,
+            "IsHalal": false,
+            "DefaultDisplayRank": 67,
+            "IsOpenNowForDelivery": true,
+            "IsOpenNowForCollection": true,
+            "RatingStars": 4.68,
+            "Logo": [
+                {
+                    "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/7208.gif"
+                }
+            ],
+            "Deals": [],
+            "NumberOfRatings": 111
+        },
+        {
+            "Id": 39379,
+            "Name": "Vincenzo's Pizza House",
+            "Address": "71A Park Street",
+            "Postcode": "BS1 5PB",
+            "City": "Bristol",
+            "CuisineTypes": [
+                {
+                    "Id": 27,
+                    "Name": "Italian",
+                    "SeoName": null
+                },
+                {
+                    "Id": 82,
+                    "Name": "Pizza",
+                    "SeoName": null
+                }
+            ],
+            "Url": "http://vincenzospizzahouse-bs1.just-eat.co.uk",
+            "IsOpenNow": true,
+            "IsSponsored": false,
+            "IsNew": false,
+            "IsTemporarilyOffline": false,
+            "ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+            "UniqueName": "vincenzospizzahouse-bs1",
+            "IsCloseBy": false,
+            "IsHalal": false,
+            "DefaultDisplayRank": 93,
+            "IsOpenNowForDelivery": false,
+            "IsOpenNowForCollection": true,
+            "RatingStars": 0,
+            "Logo": [
+                {
+                    "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/39379.gif"
+                }
+            ],
+            "Deals": [],
+            "NumberOfRatings": 0
+        },
+        {
+            "Id": 6033,
+            "Name": "Oh Calcutta",
+            "Address": "216 Cheltenham Road",
+            "Postcode": "BS6 5QU",
+            "City": "Bristol",
+            "CuisineTypes": [
+                {
+                    "Id": 31,
+                    "Name": "Indian",
+                    "SeoName": null
+                }
+            ],
+            "Url": "http://Oh-calcutta.just-eat.co.uk",
+            "IsOpenNow": true,
+            "IsSponsored": false,
+            "IsNew": false,
+            "IsTemporarilyOffline": false,
+            "ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+            "UniqueName": "Oh-calcutta",
+            "IsCloseBy": false,
+            "IsHalal": false,
+            "DefaultDisplayRank": 85,
+            "IsOpenNowForDelivery": true,
+            "IsOpenNowForCollection": true,
+            "RatingStars": 4.22,
+            "Logo": [
+                {
+                    "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/6033.gif"
+                }
+            ],
+            "Deals": [
+                {
+                    "Description": "20% off when you spend £25",
+                    "DiscountPercent": "20",
+                    "QualifyingPrice": "25.00"
+                }
+            ],
+            "NumberOfRatings": 149
+        },
+        {
+            "Id": 9745,
+            "Name": "Panda",
+            "Address": "135 Church Road",
+            "Postcode": "BS5 9JR",
+            "City": "Bristol",
+            "CuisineTypes": [
+                {
+                    "Id": 33,
+                    "Name": "Chinese",
+                    "SeoName": null
+                }
+            ],
+            "Url": "http://pandabs5.just-eat.co.uk",
+            "IsOpenNow": true,
+            "IsSponsored": false,
+            "IsNew": false,
+            "IsTemporarilyOffline": false,
+            "ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+            "UniqueName": "pandabs5",
+            "IsCloseBy": false,
+            "IsHalal": false,
+            "DefaultDisplayRank": 45,
+            "IsOpenNowForDelivery": true,
+            "IsOpenNowForCollection": true,
+            "RatingStars": 5.18,
+            "Logo": [
+                {
+                    "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/9745.gif"
+                }
+            ],
+            "Deals": [],
+            "NumberOfRatings": 523
+        },
+        {
+            "Id": 17918,
+            "Name": "My Burrito",
+            "Address": "7 Broad Quay",
+            "Postcode": "BS1 4DA",
+            "City": "Bristol",
+            "CuisineTypes": [
+                {
+                    "Id": 23,
+                    "Name": "Mexican",
+                    "SeoName": null
+                }
+            ],
+            "Url": "http://myburrito-bs1.just-eat.co.uk",
+            "IsOpenNow": true,
+            "IsSponsored": false,
+            "IsNew": false,
+            "IsTemporarilyOffline": false,
+            "ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+            "UniqueName": "myburrito-bs1",
+            "IsCloseBy": false,
+            "IsHalal": false,
+            "DefaultDisplayRank": 88,
+            "IsOpenNowForDelivery": false,
+            "IsOpenNowForCollection": true,
+            "RatingStars": 4,
+            "Logo": [
+                {
+                    "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/17918.gif"
+                }
+            ],
+            "Deals": [],
+            "NumberOfRatings": 83
+        },
+        {
+            "Id": 2786,
+            "Name": "Krishnas Inn",
+            "Address": "4 Byron Place Triangle, South Clifton",
+            "Postcode": "BS8 1JT",
+            "City": "Bristol",
+            "CuisineTypes": [
+                {
+                    "Id": 31,
+                    "Name": "Indian",
+                    "SeoName": null
+                }
+            ],
+            "Url": "http://krishnas-inn.just-eat.co.uk",
+            "IsOpenNow": true,
+            "IsSponsored": false,
+            "IsNew": false,
+            "IsTemporarilyOffline": false,
+            "ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+            "UniqueName": "krishnas-inn",
+            "IsCloseBy": true,
+            "IsHalal": false,
+            "DefaultDisplayRank": 11,
+            "IsOpenNowForDelivery": true,
+            "IsOpenNowForCollection": true,
+            "RatingStars": 4.85,
+            "Logo": [
+                {
+                    "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/2786.gif"
+                }
+            ],
+            "Deals": [],
+            "NumberOfRatings": 70
+        },
+        {
+            "Id": 18325,
+            "Name": "Indian Ocean",
+            "Address": "44 Cotham Hill",
+            "Postcode": "BS6 6LA",
+            "City": "Cotham",
+            "CuisineTypes": [
+                {
+                    "Id": 31,
+                    "Name": "Indian",
+                    "SeoName": null
+                }
+            ],
+            "Url": "http://indiaocean-bs6.just-eat.co.uk",
+            "IsOpenNow": true,
+            "IsSponsored": false,
+            "IsNew": false,
+            "IsTemporarilyOffline": false,
+            "ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+            "UniqueName": "indiaocean-bs6",
+            "IsCloseBy": false,
+            "IsHalal": true,
+            "DefaultDisplayRank": 42,
+            "IsOpenNowForDelivery": true,
+            "IsOpenNowForCollection": true,
+            "RatingStars": 5.24,
+            "Logo": [
+                {
+                    "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/18325.gif"
+                }
+            ],
+            "Deals": [
+                {
+                    "Description": "20% off when you spend £25",
+                    "DiscountPercent": "20",
+                    "QualifyingPrice": "25.00"
+                }
+            ],
+            "NumberOfRatings": 516
+        },
+        {
+            "Id": 1961,
+            "Name": "Bombay Boulevard",
+            "Address": "4, Denmark Street",
+            "Postcode": "BS1 5DQ",
+            "City": "Bristol",
+            "CuisineTypes": [
+                {
+                    "Id": 2,
+                    "Name": "English",
+                    "SeoName": null
+                },
+                {
+                    "Id": 31,
+                    "Name": "Indian",
+                    "SeoName": null
+                }
+            ],
+            "Url": "http://bombayboulevard.just-eat.co.uk",
+            "IsOpenNow": true,
+            "IsSponsored": false,
+            "IsNew": false,
+            "IsTemporarilyOffline": false,
+            "ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+            "UniqueName": "bombayboulevard",
+            "IsCloseBy": false,
+            "IsHalal": false,
+            "DefaultDisplayRank": 84,
+            "IsOpenNowForDelivery": true,
+            "IsOpenNowForCollection": true,
+            "RatingStars": 4.22,
+            "Logo": [
+                {
+                    "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/1961.gif"
+                }
+            ],
+            "Deals": [
+                {
+                    "Description": "20% off when you spend £20",
+                    "DiscountPercent": "20",
+                    "QualifyingPrice": "20.00"
+                }
+            ],
+            "NumberOfRatings": 65
+        },
+        {
+            "Id": 34794,
+            "Name": "Wok Xpress",
+            "Address": "Little ChinaTown",
+            "Postcode": "BS1 2JT",
+            "City": "Bristol",
+            "CuisineTypes": [
+                {
+                    "Id": 33,
+                    "Name": "Chinese",
+                    "SeoName": null
+                }
+            ],
+            "Url": "http://wokxpress-bs1.just-eat.co.uk",
+            "IsOpenNow": true,
+            "IsSponsored": false,
+            "IsNew": false,
+            "IsTemporarilyOffline": false,
+            "ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+            "UniqueName": "wokxpress-bs1",
+            "IsCloseBy": false,
+            "IsHalal": false,
+            "DefaultDisplayRank": 72,
+            "IsOpenNowForDelivery": true,
+            "IsOpenNowForCollection": true,
+            "RatingStars": 4.56,
+            "Logo": [
+                {
+                    "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/34794.gif"
+                }
+            ],
+            "Deals": [],
+            "NumberOfRatings": 42
+        },
+        {
+            "Id": 36029,
+            "Name": "New Easton Express",
+            "Address": "186 Stapleton Road",
+            "Postcode": "BS5 0NZ",
+            "City": "Bristol",
+            "CuisineTypes": [
+                {
+                    "Id": 35,
+                    "Name": "Japanese",
+                    "SeoName": null
+                },
+                {
+                    "Id": 33,
+                    "Name": "Chinese",
+                    "SeoName": null
+                }
+            ],
+            "Url": "http://new-easton-express-bs5.just-eat.co.uk",
+            "IsOpenNow": true,
+            "IsSponsored": false,
+            "IsNew": false,
+            "IsTemporarilyOffline": false,
+            "ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+            "UniqueName": "new-easton-express-bs5",
+            "IsCloseBy": false,
+            "IsHalal": false,
+            "DefaultDisplayRank": 73,
+            "IsOpenNowForDelivery": true,
+            "IsOpenNowForCollection": true,
+            "RatingStars": 4.54,
+            "Logo": [
+                {
+                    "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/36029.gif"
+                }
+            ],
+            "Deals": [],
+            "NumberOfRatings": 82
+        },
+        {
+            "Id": 22876,
+            "Name": "Pizza Corner",
+            "Address": "143 Church Road",
+            "Postcode": "BS5 9LA",
+            "City": "Bristol",
+            "CuisineTypes": [
+                {
+                    "Id": 27,
+                    "Name": "Italian",
+                    "SeoName": null
+                },
+                {
+                    "Id": 82,
+                    "Name": "Pizza",
+                    "SeoName": null
+                }
+            ],
+            "Url": "http://pizzacorner-bs5.just-eat.co.uk",
+            "IsOpenNow": true,
+            "IsSponsored": false,
+            "IsNew": false,
+            "IsTemporarilyOffline": false,
+            "ReasonWhyTemporarilyOffline": "NONE",
+            "UniqueName": "pizzacorner-bs5",
+            "IsCloseBy": false,
+            "IsHalal": false,
+            "DefaultDisplayRank": 53,
+            "IsOpenNowForDelivery": true,
+            "IsOpenNowForCollection": true,
+            "RatingStars": 4.96,
+            "Logo": [
+                {
+                    "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/22876.gif"
+                }
+            ],
+            "Deals": [
+                {
+                    "Description": "20% off when you spend £25",
+                    "DiscountPercent": "20",
+                    "QualifyingPrice": "25.00"
+                }
+            ],
+            "NumberOfRatings": 203
+        },
+        {
+            "Id": 43032,
+            "Name": "Flame Grill",
+            "Address": "213 Cheltenham Road",
+            "Postcode": "BS6 5QP",
+            "City": "Bristol",
+            "CuisineTypes": [
+                {
+                    "Id": 81,
+                    "Name": "Kebabs",
+                    "SeoName": null
+                },
+                {
+                    "Id": 82,
+                    "Name": "Pizza",
+                    "SeoName": null
+                }
+            ],
+            "Url": "http://kirsty.beggs13.just-eat.co.uk",
+            "IsOpenNow": true,
+            "IsSponsored": false,
+            "IsNew": true,
+            "IsTemporarilyOffline": false,
+            "ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+            "UniqueName": "kirsty.beggs13",
+            "IsCloseBy": false,
+            "IsHalal": false,
+            "DefaultDisplayRank": 21,
+            "IsOpenNowForDelivery": true,
+            "IsOpenNowForCollection": true,
+            "RatingStars": 3.67,
+            "Logo": [
+                {
+                    "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/43032.gif"
+                }
+            ],
+            "Deals": [],
+            "NumberOfRatings": 2
+        },
+        {
+            "Id": 37439,
+            "Name": "Big Bite",
+            "Address": "126 Cheltenham Road",
+            "Postcode": "BS6 5RW",
+            "City": "Bristol",
+            "CuisineTypes": [
+                {
+                    "Id": 82,
+                    "Name": "Pizza",
+                    "SeoName": null
+                },
+                {
+                    "Id": 81,
+                    "Name": "Kebabs",
+                    "SeoName": null
+                }
+            ],
+            "Url": "http://big-bite-bs6.just-eat.co.uk",
+            "IsOpenNow": true,
+            "IsSponsored": false,
+            "IsNew": false,
+            "IsTemporarilyOffline": false,
+            "ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+            "UniqueName": "big-bite-bs6",
+            "IsCloseBy": false,
+            "IsHalal": true,
+            "DefaultDisplayRank": 51,
+            "IsOpenNowForDelivery": true,
+            "IsOpenNowForCollection": true,
+            "RatingStars": 5.09,
+            "Logo": [
+                {
+                    "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/37439.gif"
+                }
+            ],
+            "Deals": [],
+            "NumberOfRatings": 112
+        },
+        {
+            "Id": 19945,
+            "Name": "Hotcha",
+            "Address": "99 Whiteladies Road",
+            "Postcode": "BS8 2PB",
+            "City": "Bristol",
+            "CuisineTypes": [
+                {
+                    "Id": 33,
+                    "Name": "Chinese",
+                    "SeoName": null
+                }
+            ],
+            "Url": "http://hotcha-bs8.just-eat.co.uk",
+            "IsOpenNow": true,
+            "IsSponsored": false,
+            "IsNew": false,
+            "IsTemporarilyOffline": false,
+            "ReasonWhyTemporarilyOffline": "",
+            "UniqueName": "hotcha-bs8",
+            "IsCloseBy": true,
+            "IsHalal": false,
+            "DefaultDisplayRank": 16,
+            "IsOpenNowForDelivery": true,
+            "IsOpenNowForCollection": true,
+            "RatingStars": 4.28,
+            "Logo": [
+                {
+                    "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/19945.gif"
+                }
+            ],
+            "Deals": [],
+            "NumberOfRatings": 271
+        },
+        {
+            "Id": 42063,
+            "Name": "Mehfil Indian Cuisine",
+            "Address": "615 Fishponds Road",
+            "Postcode": "BS16 3BA",
+            "City": "Bristol",
+            "CuisineTypes": [
+                {
+                    "Id": 31,
+                    "Name": "Indian",
+                    "SeoName": null
+                },
+                {
+                    "Id": 50,
+                    "Name": "Bangladeshi",
+                    "SeoName": null
+                }
+            ],
+            "Url": "http://mehfilindian-bs16.just-eat.co.uk",
+            "IsOpenNow": true,
+            "IsSponsored": false,
+            "IsNew": false,
+            "IsTemporarilyOffline": false,
+            "ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+            "UniqueName": "mehfilindian-bs16",
+            "IsCloseBy": false,
+            "IsHalal": true,
+            "DefaultDisplayRank": 41,
+            "IsOpenNowForDelivery": true,
+            "IsOpenNowForCollection": true,
+            "RatingStars": 5.28,
+            "Logo": [
+                {
+                    "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/42063.gif"
+                }
+            ],
+            "Deals": [
+                {
+                    "Description": "20% off when you spend £25",
+                    "DiscountPercent": "20",
+                    "QualifyingPrice": "25.00"
+                }
+            ],
+            "NumberOfRatings": 13
+        },
+        {
+            "Id": 35979,
+            "Name": "Rajpoot",
+            "Address": "52 Upper Belgrave Road",
+            "Postcode": "BS8 2XP",
+            "City": "Avon",
+            "CuisineTypes": [
+                {
+                    "Id": 31,
+                    "Name": "Indian",
+                    "SeoName": null
+                }
+            ],
+            "Url": "http://rajpoot-bs8.just-eat.co.uk",
+            "IsOpenNow": true,
+            "IsSponsored": false,
+            "IsNew": false,
+            "IsTemporarilyOffline": false,
+            "ReasonWhyTemporarilyOffline": "",
+            "UniqueName": "rajpoot-bs8",
+            "IsCloseBy": true,
+            "IsHalal": true,
+            "DefaultDisplayRank": 6,
+            "IsOpenNowForDelivery": true,
+            "IsOpenNowForCollection": true,
+            "RatingStars": 5.11,
+            "Logo": [
+                {
+                    "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/35979.gif"
+                }
+            ],
+            "Deals": [],
+            "NumberOfRatings": 6
+        },
+        {
+            "Id": 5996,
+            "Name": "Spice Express",
+            "Address": "224 Church Road, St George",
+            "Postcode": "BS5 8AD",
+            "City": "Bristol",
+            "CuisineTypes": [
+                {
+                    "Id": 31,
+                    "Name": "Indian",
+                    "SeoName": null
+                }
+            ],
+            "Url": "http://spice-express-bristol.just-eat.co.uk",
+            "IsOpenNow": true,
+            "IsSponsored": false,
+            "IsNew": false,
+            "IsTemporarilyOffline": false,
+            "ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+            "UniqueName": "spice-express-bristol",
+            "IsCloseBy": false,
+            "IsHalal": false,
+            "DefaultDisplayRank": 29,
+            "IsOpenNowForDelivery": true,
+            "IsOpenNowForCollection": true,
+            "RatingStars": 5.4,
+            "Logo": [
+                {
+                    "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/5996.gif"
+                }
+            ],
+            "Deals": [],
+            "NumberOfRatings": 956
+        },
+        {
+            "Id": 7210,
+            "Name": "Madras Express",
+            "Address": "223 North Street",
+            "Postcode": "BS3 1JJ",
+            "City": "Bristol",
+            "CuisineTypes": [
+                {
+                    "Id": 31,
+                    "Name": "Indian",
+                    "SeoName": null
+                }
+            ],
+            "Url": "http://madras-express.just-eat.co.uk",
+            "IsOpenNow": true,
+            "IsSponsored": false,
+            "IsNew": false,
+            "IsTemporarilyOffline": false,
+            "ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+            "UniqueName": "madras-express",
+            "IsCloseBy": false,
+            "IsHalal": false,
+            "DefaultDisplayRank": 65,
+            "IsOpenNowForDelivery": true,
+            "IsOpenNowForCollection": true,
+            "RatingStars": 4.7,
+            "Logo": [
+                {
+                    "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/7210.gif"
+                }
+            ],
+            "Deals": [
+                {
+                    "Description": "20% off when you spend £15",
+                    "DiscountPercent": "20",
+                    "QualifyingPrice": "15.00"
+                }
+            ],
+            "NumberOfRatings": 199
+        },
+        {
+            "Id": 30785,
+            "Name": "YoYo Burger",
+            "Address": "6 Byron Place",
+            "Postcode": "BS8 1JT",
+            "City": "Bristol",
+            "CuisineTypes": [
+                {
+                    "Id": 22,
+                    "Name": "American",
+                    "SeoName": null
+                },
+                {
+                    "Id": 78,
+                    "Name": "Burgers",
+                    "SeoName": null
+                }
+            ],
+            "Url": "http://yoyoburger-bs8.just-eat.co.uk",
+            "IsOpenNow": true,
+            "IsSponsored": false,
+            "IsNew": false,
+            "IsTemporarilyOffline": false,
+            "ReasonWhyTemporarilyOffline": "NONE",
+            "UniqueName": "yoyoburger-bs8",
+            "IsCloseBy": true,
+            "IsHalal": false,
+            "DefaultDisplayRank": 9,
+            "IsOpenNowForDelivery": true,
+            "IsOpenNowForCollection": true,
+            "RatingStars": 4.95,
+            "Logo": [
+                {
+                    "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/30785.gif"
+                }
+            ],
+            "Deals": [],
+            "NumberOfRatings": 431
+        },
+        {
+            "Id": 32582,
+            "Name": "Curry Raj Indian Takeaway",
+            "Address": "298 Church Road",
+            "Postcode": "BS5 8AL",
+            "City": "Bristol",
+            "CuisineTypes": [
+                {
+                    "Id": 31,
+                    "Name": "Indian",
+                    "SeoName": null
+                }
+            ],
+            "Url": "http://curryraj-bs5.just-eat.co.uk",
+            "IsOpenNow": true,
+            "IsSponsored": false,
+            "IsNew": false,
+            "IsTemporarilyOffline": false,
+            "ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+            "UniqueName": "curryraj-bs5",
+            "IsCloseBy": false,
+            "IsHalal": true,
+            "DefaultDisplayRank": 38,
+            "IsOpenNowForDelivery": true,
+            "IsOpenNowForCollection": true,
+            "RatingStars": 5.29,
+            "Logo": [
+                {
+                    "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/32582.gif"
+                }
+            ],
+            "Deals": [],
+            "NumberOfRatings": 295
+        },
+        {
+            "Id": 34428,
+            "Name": "Halo",
+            "Address": "141 Gloucester Road Bishopston",
+            "Postcode": "BS7 8BA",
+            "City": "Bristol",
+            "CuisineTypes": [
+                {
+                    "Id": 92,
+                    "Name": "Breakfast",
+                    "SeoName": null
+                },
+                {
+                    "Id": 78,
+                    "Name": "Burgers",
+                    "SeoName": null
+                }
+            ],
+            "Url": "http://halo-bs7.just-eat.co.uk",
+            "IsOpenNow": true,
+            "IsSponsored": false,
+            "IsNew": false,
+            "IsTemporarilyOffline": false,
+            "ReasonWhyTemporarilyOffline": "",
+            "UniqueName": "halo-bs7",
+            "IsCloseBy": false,
+            "IsHalal": false,
+            "DefaultDisplayRank": 78,
+            "IsOpenNowForDelivery": true,
+            "IsOpenNowForCollection": true,
+            "RatingStars": 4.43,
+            "Logo": [
+                {
+                    "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/34428.gif"
+                }
+            ],
+            "Deals": [],
+            "NumberOfRatings": 133
+        },
+        {
+            "Id": 29399,
+            "Name": "Chicken Cottage",
+            "Address": "178 Church Road",
+            "Postcode": "BS5 9HX",
+            "City": "Bristol",
+            "CuisineTypes": [
+                {
+                    "Id": 79,
+                    "Name": "Chicken",
+                    "SeoName": null
+                }
+            ],
+            "Url": "http://chickencottage-bs5.just-eat.co.uk",
+            "IsOpenNow": true,
+            "IsSponsored": false,
+            "IsNew": false,
+            "IsTemporarilyOffline": false,
+            "ReasonWhyTemporarilyOffline": "NONE",
+            "UniqueName": "chickencottage-bs5",
+            "IsCloseBy": false,
+            "IsHalal": true,
+            "DefaultDisplayRank": 61,
+            "IsOpenNowForDelivery": true,
+            "IsOpenNowForCollection": true,
+            "RatingStars": 4.82,
+            "Logo": [
+                {
+                    "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/29399.gif"
+                }
+            ],
+            "Deals": [],
+            "NumberOfRatings": 145
+        },
+        {
+            "Id": 42064,
+            "Name": "Royal Lebanese Kebab",
+            "Address": "15 Gloucester Road",
+            "Postcode": "BS7 8AA",
+            "City": "Bristol",
+            "CuisineTypes": [
+                {
+                    "Id": 81,
+                    "Name": "Kebabs",
+                    "SeoName": null
+                },
+                {
+                    "Id": 52,
+                    "Name": "Lebanese",
+                    "SeoName": null
+                }
+            ],
+            "Url": "http://royallebanesekebab-bs7.just-eat.co.uk",
+            "IsOpenNow": true,
+            "IsSponsored": false,
+            "IsNew": false,
+            "IsTemporarilyOffline": false,
+            "ReasonWhyTemporarilyOffline": "",
+            "UniqueName": "royallebanesekebab-bs7",
+            "IsCloseBy": false,
+            "IsHalal": true,
+            "DefaultDisplayRank": 66,
+            "IsOpenNowForDelivery": true,
+            "IsOpenNowForCollection": true,
+            "RatingStars": 4.7,
+            "Logo": [
+                {
+                    "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/42064.gif"
+                }
+            ],
+            "Deals": [
+                {
+                    "Description": "20% off when you spend £25",
+                    "DiscountPercent": "20",
+                    "QualifyingPrice": "25.00"
+                }
+            ],
+            "NumberOfRatings": 11
+        },
+        {
+            "Id": 38538,
+            "Name": "The Brazilian Lounge",
+            "Address": "229 Filton Avenue",
+            "Postcode": "BS7 0AY",
+            "City": "Horfield",
+            "CuisineTypes": [
+                {
+                    "Id": 56,
+                    "Name": "Brazilian food",
+                    "SeoName": null
+                },
+                {
+                    "Id": 89,
+                    "Name": "Healthy",
+                    "SeoName": null
+                }
+            ],
+            "Url": "http://thebrazillianlounge-bs7.just-eat.co.uk",
+            "IsOpenNow": true,
+            "IsSponsored": false,
+            "IsNew": false,
+            "IsTemporarilyOffline": false,
+            "ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+            "UniqueName": "thebrazillianlounge-bs7",
+            "IsCloseBy": false,
+            "IsHalal": false,
+            "DefaultDisplayRank": 34,
+            "IsOpenNowForDelivery": true,
+            "IsOpenNowForCollection": true,
+            "RatingStars": 5.35,
+            "Logo": [
+                {
+                    "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/38538.gif"
+                }
+            ],
+            "Deals": [],
+            "NumberOfRatings": 53
+        },
+        {
+            "Id": 1924,
+            "Name": "Lyba Palace",
+            "Address": "371, Stapleton Road Eastville",
+            "Postcode": "BS5 6NE",
+            "City": "Bristol",
+            "CuisineTypes": [
+                {
+                    "Id": 31,
+                    "Name": "Indian",
+                    "SeoName": null
+                },
+                {
+                    "Id": 37,
+                    "Name": "Pakistani",
+                    "SeoName": null
+                }
+            ],
+            "Url": "http://lybapalace.just-eat.co.uk",
+            "IsOpenNow": true,
+            "IsSponsored": false,
+            "IsNew": false,
+            "IsTemporarilyOffline": false,
+            "ReasonWhyTemporarilyOffline": "NONE",
+            "UniqueName": "lybapalace",
+            "IsCloseBy": false,
+            "IsHalal": false,
+            "DefaultDisplayRank": 82,
+            "IsOpenNowForDelivery": true,
+            "IsOpenNowForCollection": true,
+            "RatingStars": 4.28,
+            "Logo": [
+                {
+                    "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/1924.gif"
+                }
+            ],
+            "Deals": [],
+            "NumberOfRatings": 125
+        },
+        {
+            "Id": 25047,
+            "Name": "The Curry Centre",
+            "Address": "43 West Street Bedminister",
+            "Postcode": "BS3 3NS",
+            "City": "Bristol",
+            "CuisineTypes": [
+                {
+                    "Id": 31,
+                    "Name": "Indian",
+                    "SeoName": null
+                }
+            ],
+            "Url": "http://thecurrycentre-bs3.just-eat.co.uk",
+            "IsOpenNow": true,
+            "IsSponsored": false,
+            "IsNew": false,
+            "IsTemporarilyOffline": false,
+            "ReasonWhyTemporarilyOffline": "NONE",
+            "UniqueName": "thecurrycentre-bs3",
+            "IsCloseBy": false,
+            "IsHalal": false,
+            "DefaultDisplayRank": 36,
+            "IsOpenNowForDelivery": true,
+            "IsOpenNowForCollection": true,
+            "RatingStars": 5.32,
+            "Logo": [
+                {
+                    "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/25047.gif"
+                }
+            ],
+            "Deals": [],
+            "NumberOfRatings": 84
+        },
+        {
+            "Id": 12829,
+            "Name": "Sizzlers Pizza & Grill",
+            "Address": "45 College Green",
+            "Postcode": "BS1 5SH",
+            "City": "Bristol",
+            "CuisineTypes": [
+                {
+                    "Id": 2,
+                    "Name": "English",
+                    "SeoName": null
+                },
+                {
+                    "Id": 82,
+                    "Name": "Pizza",
+                    "SeoName": null
+                }
+            ],
+            "Url": "http://sizzlerspizzangrill.just-eat.co.uk",
+            "IsOpenNow": true,
+            "IsSponsored": false,
+            "IsNew": false,
+            "IsTemporarilyOffline": false,
+            "ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+            "UniqueName": "sizzlerspizzangrill",
+            "IsCloseBy": false,
+            "IsHalal": true,
+            "DefaultDisplayRank": 80,
+            "IsOpenNowForDelivery": false,
+            "IsOpenNowForCollection": true,
+            "RatingStars": 4.29,
+            "Logo": [
+                {
+                    "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/12829.gif"
+                }
+            ],
+            "Deals": [],
+            "NumberOfRatings": 110
+        },
+        {
+            "Id": 4003,
+            "Name": "Curry to Goa",
+            "Address": "1e Chandos Road",
+            "Postcode": "BS6 6PG",
+            "City": "Bristol",
+            "CuisineTypes": [
+                {
+                    "Id": 31,
+                    "Name": "Indian",
+                    "SeoName": null
+                },
+                {
+                    "Id": 50,
+                    "Name": "Bangladeshi",
+                    "SeoName": null
+                }
+            ],
+            "Url": "http://curry-to-goa.just-eat.co.uk",
+            "IsOpenNow": true,
+            "IsSponsored": false,
+            "IsNew": false,
+            "IsTemporarilyOffline": false,
+            "ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+            "UniqueName": "curry-to-goa",
+            "IsCloseBy": false,
+            "IsHalal": false,
+            "DefaultDisplayRank": 89,
+            "IsOpenNowForDelivery": true,
+            "IsOpenNowForCollection": false,
+            "RatingStars": 3.79,
+            "Logo": [
+                {
+                    "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/4003.gif"
+                }
+            ],
+            "Deals": [],
+            "NumberOfRatings": 13
+        },
+        {
+            "Id": 17783,
+            "Name": "Istanbul Kebabs",
+            "Address": "43 Old Market Street",
+            "Postcode": "BS2 0EZ",
+            "City": "Bristol",
+            "CuisineTypes": [
+                {
+                    "Id": 82,
+                    "Name": "Pizza",
+                    "SeoName": null
+                },
+                {
+                    "Id": 81,
+                    "Name": "Kebabs",
+                    "SeoName": null
+                }
+            ],
+            "Url": "http://istanbulkebabs-bs2.just-eat.co.uk",
+            "IsOpenNow": true,
+            "IsSponsored": false,
+            "IsNew": false,
+            "IsTemporarilyOffline": false,
+            "ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+            "UniqueName": "istanbulkebabs-bs2",
+            "IsCloseBy": false,
+            "IsHalal": false,
+            "DefaultDisplayRank": 81,
+            "IsOpenNowForDelivery": true,
+            "IsOpenNowForCollection": true,
+            "RatingStars": 4.29,
+            "Logo": [
+                {
+                    "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/17783.gif"
+                }
+            ],
+            "Deals": [
+                {
+                    "Description": "20% off when you spend £30",
+                    "DiscountPercent": "20",
+                    "QualifyingPrice": "30.00"
+                }
+            ],
+            "NumberOfRatings": 181
+        },
+        {
+            "Id": 13405,
+            "Name": "Roshni Indian Cuisine",
+            "Address": "63 High street",
+            "Postcode": "BS9 3ED",
+            "City": "Bristol",
+            "CuisineTypes": [
+                {
+                    "Id": 31,
+                    "Name": "Indian",
+                    "SeoName": null
+                }
+            ],
+            "Url": "http://roshniindian.just-eat.co.uk",
+            "IsOpenNow": false,
+            "IsSponsored": false,
+            "IsNew": false,
+            "IsTemporarilyOffline": false,
+            "ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+            "UniqueName": "roshniindian",
+            "IsCloseBy": false,
+            "IsHalal": true,
+            "DefaultDisplayRank": 97,
+            "IsOpenNowForDelivery": false,
+            "IsOpenNowForCollection": false,
+            "RatingStars": 4.93,
+            "Logo": [
+                {
+                    "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/13405.gif"
+                }
+            ],
+            "Deals": [],
+            "NumberOfRatings": 66
+        },
+        {
+            "Id": 22472,
+            "Name": "Coronation Curry House",
+            "Address": "190 Coronation Road",
+            "Postcode": "BS3 1RF",
+            "City": "Bristol",
+            "CuisineTypes": [
+                {
+                    "Id": 31,
+                    "Name": "Indian",
+                    "SeoName": null
+                }
+            ],
+            "Url": "http://CoronationCurryHouse-BS3.just-eat.co.uk",
+            "IsOpenNow": false,
+            "IsSponsored": false,
+            "IsNew": false,
+            "IsTemporarilyOffline": false,
+            "ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+            "UniqueName": "CoronationCurryHouse-BS3",
+            "IsCloseBy": false,
+            "IsHalal": false,
+            "DefaultDisplayRank": 96,
+            "IsOpenNowForDelivery": false,
+            "IsOpenNowForCollection": false,
+            "RatingStars": 5.14,
+            "Logo": [
+                {
+                    "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/22472.gif"
+                }
+            ],
+            "Deals": [],
+            "NumberOfRatings": 95
+        },
+        {
+            "Id": 21741,
+            "Name": "Chan's",
+            "Address": "205 Wellington Hill West",
+            "Postcode": "BS9 4QL",
+            "City": "Bristol",
+            "CuisineTypes": [
+                {
+                    "Id": 33,
+                    "Name": "Chinese",
+                    "SeoName": null
+                }
+            ],
+            "Url": "http://chans-bs9.just-eat.co.uk",
+            "IsOpenNow": false,
+            "IsSponsored": false,
+            "IsNew": false,
+            "IsTemporarilyOffline": false,
+            "ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+            "UniqueName": "chans-bs9",
+            "IsCloseBy": false,
+            "IsHalal": false,
+            "DefaultDisplayRank": 95,
+            "IsOpenNowForDelivery": false,
+            "IsOpenNowForCollection": false,
+            "RatingStars": 5.23,
+            "Logo": [
+                {
+                    "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/21741.gif"
+                }
+            ],
+            "Deals": [],
+            "NumberOfRatings": 130
+        },
+        {
+            "Id": 3228,
+            "Name": "Ganesha Authentic Indian Cuisine",
+            "Address": "54-56 Bedminister Parade",
+            "Postcode": "BS3 4HS",
+            "City": "Bristol",
+            "CuisineTypes": [
+                {
+                    "Id": 31,
+                    "Name": "Indian",
+                    "SeoName": null
+                }
+            ],
+            "Url": "http://ganesha-authentic-indian-cuisine.just-eat.co.uk",
+            "IsOpenNow": false,
+            "IsSponsored": false,
+            "IsNew": false,
+            "IsTemporarilyOffline": false,
+            "ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+            "UniqueName": "ganesha-authentic-indian-cuisine",
+            "IsCloseBy": false,
+            "IsHalal": false,
+            "DefaultDisplayRank": 99,
+            "IsOpenNowForDelivery": false,
+            "IsOpenNowForCollection": false,
+            "RatingStars": 4.88,
+            "Logo": [
+                {
+                    "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/3228.gif"
+                }
+            ],
+            "Deals": [],
+            "NumberOfRatings": 138
+        },
+        {
+            "Id": 23588,
+            "Name": "Asia Channel",
+            "Address": "259 Hotwell Road Hotwell",
+            "Postcode": "BS8 4SF",
+            "City": "Bristol",
+            "CuisineTypes": [
+                {
+                    "Id": 33,
+                    "Name": "Chinese",
+                    "SeoName": null
+                },
+                {
+                    "Id": 30,
+                    "Name": "Thai",
+                    "SeoName": null
+                }
+            ],
+            "Url": "http://asiachannel-bs8.just-eat.co.uk",
+            "IsOpenNow": false,
+            "IsSponsored": false,
+            "IsNew": false,
+            "IsTemporarilyOffline": false,
+            "ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+            "UniqueName": "asiachannel-bs8",
+            "IsCloseBy": true,
+            "IsHalal": false,
+            "DefaultDisplayRank": 94,
+            "IsOpenNowForDelivery": true,
+            "IsOpenNowForCollection": false,
+            "RatingStars": 5.11,
+            "Logo": [
+                {
+                    "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/23588.gif"
+                }
+            ],
+            "Deals": [],
+            "NumberOfRatings": 197
+        },
+        {
+            "Id": 14178,
+            "Name": "Afendi Restaurant & Cafe",
+            "Address": "217 Cheltenham Road",
+            "Postcode": "BS6 5QP",
+            "City": "Bristol",
+            "CuisineTypes": [
+                {
+                    "Id": 52,
+                    "Name": "Lebanese",
+                    "SeoName": null
+                }
+            ],
+            "Url": "http://afendirestaurant.just-eat.co.uk",
+            "IsOpenNow": false,
+            "IsSponsored": false,
+            "IsNew": false,
+            "IsTemporarilyOffline": false,
+            "ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+            "UniqueName": "afendirestaurant",
+            "IsCloseBy": false,
+            "IsHalal": true,
+            "DefaultDisplayRank": 98,
+            "IsOpenNowForDelivery": false,
+            "IsOpenNowForCollection": false,
+            "RatingStars": 4.93,
+            "Logo": [
+                {
+                    "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/14178.gif"
+                }
+            ],
+            "Deals": [],
+            "NumberOfRatings": 193
+        },
+        {
+            "Id": 4651,
+            "Name": "Thai Pepper",
+            "Address": "215,Cheltenham Road",
+            "Postcode": "BS6 5QP",
+            "City": "Bristol",
+            "CuisineTypes": [
+                {
+                    "Id": 30,
+                    "Name": "Thai",
+                    "SeoName": null
+                }
+            ],
+            "Url": "http://thai-pepper.just-eat.co.uk",
+            "IsOpenNow": false,
+            "IsSponsored": false,
+            "IsNew": false,
+            "IsTemporarilyOffline": false,
+            "ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Onlined",
+            "UniqueName": "thai-pepper",
+            "IsCloseBy": false,
+            "IsHalal": false,
+            "DefaultDisplayRank": 100,
+            "IsOpenNowForDelivery": false,
+            "IsOpenNowForCollection": false,
+            "RatingStars": 4.51,
+            "Logo": [
+                {
+                    "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/4651.gif"
+                }
+            ],
+            "Deals": [],
+            "NumberOfRatings": 287
+        },
+        {
+            "Id": 504,
+            "Name": "Pizza King",
+            "Address": "107 Stokes Croft",
+            "Postcode": "BS1 3RW",
+            "City": "Bristol",
+            "CuisineTypes": [
+                {
+                    "Id": 82,
+                    "Name": "Pizza",
+                    "SeoName": null
+                },
+                {
+                    "Id": 79,
+                    "Name": "Chicken",
+                    "SeoName": null
+                }
+            ],
+            "Url": "http://pizzaking.just-eat.co.uk",
+            "IsOpenNow": false,
+            "IsSponsored": false,
+            "IsNew": false,
+            "IsTemporarilyOffline": true,
+            "ReasonWhyTemporarilyOffline": "",
+            "UniqueName": "pizzaking",
+            "IsCloseBy": false,
+            "IsHalal": true,
+            "DefaultDisplayRank": 105,
+            "IsOpenNowForDelivery": true,
+            "IsOpenNowForCollection": true,
+            "RatingStars": 4.16,
+            "Logo": [
+                {
+                    "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/504.gif"
+                }
+            ],
+            "Deals": [],
+            "NumberOfRatings": 208
+        },
+        {
+            "Id": 31429,
+            "Name": "Piri Piri Corner",
+            "Address": "11-12 Triangle South Cliffton Bristol",
+            "Postcode": "BS8 1EY",
+            "City": "Bristol",
+            "CuisineTypes": [
+                {
+                    "Id": 93,
+                    "Name": "Peri Peri",
+                    "SeoName": null
+                },
+                {
+                    "Id": 79,
+                    "Name": "Chicken",
+                    "SeoName": null
+                }
+            ],
+            "Url": "http://piripiricorner-bs8.just-eat.co.uk",
+            "IsOpenNow": false,
+            "IsSponsored": false,
+            "IsNew": false,
+            "IsTemporarilyOffline": true,
+            "ReasonWhyTemporarilyOffline": "Proactive Temp Offline - Offlined",
+            "UniqueName": "piripiricorner-bs8",
+            "IsCloseBy": true,
+            "IsHalal": true,
+            "DefaultDisplayRank": 102,
+            "IsOpenNowForDelivery": true,
+            "IsOpenNowForCollection": true,
+            "RatingStars": 2.4,
+            "Logo": [
+                {
+                    "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/31429.gif"
+                }
+            ],
+            "Deals": [],
+            "NumberOfRatings": 27
+        },
+        {
+            "Id": 39070,
+            "Name": "Yume Kitchen",
+            "Address": "21 Regent Street",
+            "Postcode": "BS8 4HW",
+            "City": "Clifton",
+            "CuisineTypes": [
+                {
+                    "Id": 35,
+                    "Name": "Japanese",
+                    "SeoName": null
+                },
+                {
+                    "Id": 83,
+                    "Name": "Sushi",
+                    "SeoName": null
+                }
+            ],
+            "Url": "http://yumekitchen-bs8.just-eat.co.uk",
+            "IsOpenNow": false,
+            "IsSponsored": false,
+            "IsNew": false,
+            "IsTemporarilyOffline": true,
+            "ReasonWhyTemporarilyOffline": "Closed today",
+            "UniqueName": "yumekitchen-bs8",
+            "IsCloseBy": true,
+            "IsHalal": false,
+            "DefaultDisplayRank": 101,
+            "IsOpenNowForDelivery": true,
+            "IsOpenNowForCollection": true,
+            "RatingStars": 4.79,
+            "Logo": [
+                {
+                    "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/39070.gif"
+                }
+            ],
+            "Deals": [],
+            "NumberOfRatings": 50
+        },
+        {
+            "Id": 36107,
+            "Name": "The Roaster",
+            "Address": "36 Stean Bridge Road",
+            "Postcode": "BS32 8AH",
+            "City": "Bradley Stoke",
+            "CuisineTypes": [
+                {
+                    "Id": 2,
+                    "Name": "English",
+                    "SeoName": null
+                },
+                {
+                    "Id": 92,
+                    "Name": "Breakfast",
+                    "SeoName": null
+                }
+            ],
+            "Url": "http://theroaster-bs32.just-eat.co.uk",
+            "IsOpenNow": false,
+            "IsSponsored": false,
+            "IsNew": false,
+            "IsTemporarilyOffline": true,
+            "ReasonWhyTemporarilyOffline": "Temporarily offline",
+            "UniqueName": "theroaster-bs32",
+            "IsCloseBy": false,
+            "IsHalal": false,
+            "DefaultDisplayRank": 104,
+            "IsOpenNowForDelivery": false,
+            "IsOpenNowForCollection": false,
+            "RatingStars": 4.6,
+            "Logo": [
+                {
+                    "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/36107.gif"
+                }
+            ],
+            "Deals": [],
+            "NumberOfRatings": 81
+        },
+        {
+            "Id": 27614,
+            "Name": "Redland Curry Delivery",
+            "Address": "12 Elm Lane",
+            "Postcode": "BS6 6UE",
+            "City": "Bristol",
+            "CuisineTypes": [
+                {
+                    "Id": 31,
+                    "Name": "Indian",
+                    "SeoName": null
+                }
+            ],
+            "Url": "http://redlandcurrydelivery-bs6.just-eat.co.uk",
+            "IsOpenNow": false,
+            "IsSponsored": false,
+            "IsNew": false,
+            "IsTemporarilyOffline": true,
+            "ReasonWhyTemporarilyOffline": "Temporarily offline",
+            "UniqueName": "redlandcurrydelivery-bs6",
+            "IsCloseBy": false,
+            "IsHalal": false,
+            "DefaultDisplayRank": 103,
+            "IsOpenNowForDelivery": true,
+            "IsOpenNowForCollection": false,
+            "RatingStars": 5.06,
+            "Logo": [
+                {
+                    "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/27614.gif"
+                }
+            ],
+            "Deals": [],
+            "NumberOfRatings": 27
+        },
+        {
+            "Id": 34430,
+            "Name": "Top Taste",
+            "Address": "121 Church Road Redfield",
+            "Postcode": "BS5 9JR",
+            "City": "Bristol",
+            "CuisineTypes": [
+                {
+                    "Id": 38,
+                    "Name": "Jamaican",
+                    "SeoName": null
+                },
+                {
+                    "Id": 76,
+                    "Name": "Caribbean",
+                    "SeoName": null
+                }
+            ],
+            "Url": "http://toptaste-bs5.just-eat.co.uk",
+            "IsOpenNow": false,
+            "IsSponsored": false,
+            "IsNew": false,
+            "IsTemporarilyOffline": true,
+            "ReasonWhyTemporarilyOffline": "Closed today",
+            "UniqueName": "toptaste-bs5",
+            "IsCloseBy": false,
+            "IsHalal": true,
+            "DefaultDisplayRank": 106,
+            "IsOpenNowForDelivery": true,
+            "IsOpenNowForCollection": true,
+            "RatingStars": 3.69,
+            "Logo": [
+                {
+                    "StandardResolutionURL": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/34430.gif"
+                }
+            ],
+            "Deals": [],
+            "NumberOfRatings": 77
+        }
+    ]
+}

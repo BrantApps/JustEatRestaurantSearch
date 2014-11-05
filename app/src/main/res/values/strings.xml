@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">JustEat Restaurant Search</string>
+    <string name="outcode_search_label">Search for restaurants…</string>
+    <string name="outcode_search_hint_label">Outcode e.g. SE19</string>
+    <string name="search_label">Search</string>
+    <string name="dual_delivery_method_label">Collect and Delivery available</string>
+    <string name="collect_only_method_label">Collect only</string>
+    <string name="delivery_only_method_label">Delivery only</string>
+
+    <string name="author_label">Author: David Branton</string>
+    <string name="libraries_used_label">
+        Libraries used &lt;br /&gt; &lt;br /&gt;
+        \u2022 &lt;a href=\&quot;http://square.github.io/retrofit/\&quot;&gt; Retrofit&lt;/a> by Square &lt;br /&gt;
+        \u2022 &lt;a href=\&quot;http://jakewharton.github.io/butterknife/\&quot;&gt; Butterknife&lt;/a> by Jake Wharton &lt;br /&gt;
+        \u2022 &lt;a href=\&quot;http://square.github.io/picasso/\&quot;&gt; Picasso&lt;/a> by Square &lt;br /&gt;
+        \u2022 &lt;a href=\&quot;http://square.github.io/dagger/\&quot;&gt; Dagger&lt;/a> by Square &lt;br /&gt;
+        \u2022 &lt;a href=\&quot;https://code.google.com/p/guava-libraries/\&quot;&gt; Guava&lt;/a> by Google &lt;br /&gt;
+        \u2022 &lt;a href=\&quot;http://commons.apache.org/proper/commons-lang/\&quot;&gt; Commons Lang&lt;/a> by Apache &lt;br /&gt; &lt;br /&gt;
+        Test libraries used &lt;br /&gt; &lt;br /&gt;
+        \u2022 &lt;a href=\&quot;https://code.google.com/p/hamcrest/\&quot;&gt; Hamcrest&lt;/a>&lt;br /&gt;
+        \u2022 &lt;a href=\&quot;http://docs.mockito.googlecode.com/hg/org/mockito/Mockito.html\&quot;&gt; Mockito&lt;/a>&lt;br /&gt;
+        \u2022 &lt;a href=\&quot;http://robolectric.org/\&quot;&gt; Robolectric&lt;/a> from XtremeLabs &lt;br /&gt;
+        \u2022 &lt;a href=\&quot;https://github.com/square/okhttp/tree/master/mockwebserver\&quot;&gt; MockWebServer&lt;/a> by Square&lt;br /&gt;
+    </string>
+
+    <string name="no_restaurants_message">Sorry, no restaurants deliver to your area</string>
+    <string name="error_title_label">There is a problem with your outcode:</string>
+    <string name="too_short_error_message">Outcodes are required to be at least 2 characters long</string>
+    <string name="too_long_error_message">Outcodes cannot be longer than 4 characters</string>
+    <string name="must_start_with_letter_message">Outcodes must start with a letter</string>
+    <string name="must_contain_a_letter_message">Outcodes must contain at least one letter</string>
+</resources>
