@@ -90,7 +90,6 @@ public class RestaurantSearchService extends RetrofitWebService<RestaurantSearch
   }
 
 
-
   /**
    * Retrieving restaurant for a specific outcode.
    *
